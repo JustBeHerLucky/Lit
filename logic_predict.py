@@ -215,6 +215,11 @@ def _update_runtime_modules(result: str):
             state.bait_counter[cls] += 1
 
 
+def reset_runtime_modules():
+    frequency_estimator.reset()
+    voting_agent.reset()
+
+
 def predict_and_train(data: PredictInput):
     result = data.result
     if result not in CLASSES:
