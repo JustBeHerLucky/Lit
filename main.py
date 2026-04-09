@@ -9,8 +9,9 @@ from pydantic import BaseModel
 
 import model_manager
 import state
-from agents.rl import RLAgent
-from logic_predict import PredictInput, predict_and_train
+import logic_predict
+from agents.drift import reset_drift_detectors
+from logic_predict import PredictInput, predict_and_train, reset_runtime_modules
 
 app = FastAPI(title="Realtime Sequence Prediction API")
 
@@ -31,8 +32,7 @@ class ConfigInput(BaseModel):
 
 @app.on_event("startup")
 async def startup_event():
-    rl_agent = RLAgent()
-    model_manager.load_models(rl_agent)
+    model_manager.load_models(logic_predict.rl_agent)
     state.log("✅ System Ready.")
 
 
@@ -94,6 +94,8 @@ async def predict_and_train_route(data: PredictInput):
 @app.post("/reset")
 async def reset():
     state.reset_runtime_state()
+    reset_runtime_modules()
+    reset_drift_detectors()
     state.log("⚡ System reset.")
     await broadcast_update()
     return {"message": "system reset"}

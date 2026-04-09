@@ -34,6 +34,12 @@ ph_drift = river_drift.PageHinkley()
 adwin_drift = river_drift.ADWIN()
 simple_ddm = SimpleDDM()
 
+def reset_drift_detectors():
+    global ph_drift, adwin_drift
+    ph_drift = river_drift.PageHinkley()
+    adwin_drift = river_drift.ADWIN()
+    simple_ddm.reset()
+
 def detect_drift(predicted_correct, consecutive_losses):
     return (
         adwin_drift.update(int(predicted_correct)) or
