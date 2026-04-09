@@ -8,9 +8,12 @@ import state
 import model_manager
 
 from config import (
+    BET_AMOUNTS,
     FEATURE_FLAGS,
     CLASSES,
     MAIN_CLASSES,
+    MAX_MARTINGALE,
+    PAYOUTS,
     WINDOW_SIZE,
     FREQUENCY_WINDOW,
     PATTERN_LENGTH,
@@ -93,6 +96,12 @@ def _evaluate_previous_prediction(result: str):
     for pred in predicted:
         state.stats["class_called"][pred] += 1
 
+    total_bet = sum(state.current_bets[pred] for pred in predicted)
+    payout = state.current_bets[result] * PAYOUTS[result] if result in predicted else 0
+    profit = payout - total_bet
+    state.stats["total_profit"] += profit
+    state.profit_history.append(profit)
+
     is_hit = result in predicted
     state.recent_results.append(is_hit)
     state.update_outcome(is_hit)
@@ -101,9 +110,13 @@ def _evaluate_previous_prediction(result: str):
         state.stats["total_correct"] += 1
         state.stats["class_correct"][result] += 1
         state.consecutive_misses = 0
+        state.current_bets.update(BET_AMOUNTS)
     else:
         state.consecutive_misses += 1
         state.log(f"[MISS] Consecutive misses: {state.consecutive_misses}")
+        if MAX_MARTINGALE > 0 and state.consecutive_misses <= MAX_MARTINGALE:
+            for cls in CLASSES:
+                state.current_bets[cls] *= 2
 
 
 def _train_models(result: str):
