@@ -38,9 +38,11 @@ LOG_DIR = "logs"
 os.makedirs(LOG_DIR, exist_ok=True)
 
 def log(msg: str):
-    line = f"[{datetime.now().strftime('%H:%M:%S')}] {msg}"
+    now = datetime.now()
+    line = f"[{now.strftime('%H:%M:%S')}] {msg}"
     logs.appendleft(line)
-    with open(os.path.join(LOG_DIR, f"log_{datetime.now().strftime('%Y-%m-%d')}.txt"), "a", encoding="utf-8") as f:
+    log_path = os.path.join(LOG_DIR, f"log_{now.strftime('%Y-%m-%d')}.txt")
+    with open(log_path, "a", encoding="utf-8") as f:
         f.write(line + "\n")
 
 def update_history(result: str):
