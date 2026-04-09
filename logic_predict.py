@@ -1,3 +1,5 @@
+from collections import Counter
+
 import numpy as np
 from pydantic import BaseModel
 from sklearn.preprocessing import LabelEncoder
@@ -26,6 +28,8 @@ rl_agent = RLAgent()
 
 encoder = LabelEncoder()
 encoder.fit(CLASSES)
+CLASS_TO_INDEX = {label: idx for idx, label in enumerate(CLASSES)}
+UNIFORM_PROBS = np.full(len(CLASSES), 1.0 / len(CLASSES), dtype=float)
 
 
 class PredictInput(BaseModel):
@@ -38,17 +42,17 @@ def softmax(x, temp=0.7):
     x = np.asarray(x, dtype=float)
     e_x = np.exp((x - np.max(x)) / temp)
     denom = e_x.sum()
-    return e_x / denom if denom > 0 else np.ones(len(CLASSES)) / len(CLASSES)
+    return e_x / denom if denom > 0 else UNIFORM_PROBS.copy()
 
 
 def _extract_features(hist):
-    feats = []
-
-    feats += list(encoder.transform(hist))
+    feats = list(encoder.transform(hist))
 
     tail = hist[-FREQUENCY_WINDOW:]
+    tail_len = max(len(tail), 1)
+    tail_counts = Counter(tail)
     for cls in CLASSES:
-        feats.append(tail.count(cls) / max(len(tail), 1))
+        feats.append(tail_counts.get(cls, 0) / tail_len)
 
     last = hist[-1]
     streak = 1
@@ -59,12 +63,14 @@ def _extract_features(hist):
             break
     feats.append(streak / len(hist))
 
+    reverse_positions = {}
+    for idx, value in enumerate(reversed(hist)):
+        reverse_positions.setdefault(value, idx)
+
+    hist_len = len(hist)
     for cls in CLASSES:
-        try:
-            rev_idx = hist[::-1].index(cls)
-            feats.append(rev_idx / len(hist))
-        except ValueError:
-            feats.append(1.0)
+        rev_idx = reverse_positions.get(cls)
+        feats.append((rev_idx / hist_len) if rev_idx is not None else 1.0)
 
     return feats
 
@@ -133,9 +139,8 @@ def _train_models(result: str):
 
 
 def _get_model_probs(X_sample):
-    uniform = np.ones(len(CLASSES)) / len(CLASSES)
     if X_sample is None:
-        return uniform
+        return UNIFORM_PROBS.copy()
 
     if FEATURE_FLAGS["USE_MAIN_MODEL"]:
         scores_main = model_manager.model.decision_function([X_sample])[0]
@@ -148,24 +153,24 @@ def _get_model_probs(X_sample):
 
         return probs_main
 
-    return uniform
+    return UNIFORM_PROBS.copy()
 
 
 def _get_freq_probs():
     if not FEATURE_FLAGS["USE_FREQUENCY_ESTIMATOR"]:
-        return np.ones(len(CLASSES)) / len(CLASSES)
+        return UNIFORM_PROBS.copy()
 
     probs = frequency_estimator.get_probabilities()
-    return np.array([probs[c] for c in CLASSES], dtype=float)
+    return np.fromiter((probs[c] for c in CLASSES), dtype=float, count=len(CLASSES))
 
 
 def _get_voting_probs():
     if not FEATURE_FLAGS["USE_VOTING_AGENT"]:
-        return np.ones(len(CLASSES)) / len(CLASSES)
+        return UNIFORM_PROBS.copy()
 
     hist = list(state.history)
     if len(hist) >= 3:
-        voting_input = [[CLASSES.index(x) for x in hist[-3:]]]
+        voting_input = [[CLASS_TO_INDEX[x] for x in hist[-3:]]]
     else:
         voting_input = [[0, 0, 0]]
 
@@ -196,7 +201,7 @@ def _build_combined_probs(X_sample):
     combined = np.asarray(combined, dtype=float)
     total = combined.sum()
     if total <= 0:
-        return np.ones(len(CLASSES)) / len(CLASSES)
+        return UNIFORM_PROBS.copy()
     return combined / total
 
 
@@ -260,7 +265,7 @@ def predict_and_train(data: PredictInput):
 
     state.log(
         f"New prediction → Main: {main} | Rare: {rare} | "
-        f"Top confidence: {round(float(np.max(combined_probs)), 4)} | Strategy: {rl_action}"
+        f"Top confidence: {round(avg_conf, 4)} | Strategy: {rl_action}"
     )
 
     state.history.append(result)
