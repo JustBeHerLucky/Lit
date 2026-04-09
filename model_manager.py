@@ -3,6 +3,7 @@ import joblib
 import numpy as np
 from collections import defaultdict
 from config import MODEL_PATH, PATTERN_MEMORY_PATH, RL_AGENT_PATH, CLASSES
+from agents import pattern as pattern_module
 from agents.pattern import pattern_outer_default
 from agents.rl import default_q
 
@@ -44,8 +45,8 @@ def save_models():
         joblib.dump(model, MODEL_PATH)
     if model_secondary is not None:
         joblib.dump(model_secondary, MODEL_PATH + ".secondary")
-    if pattern_memory is not None:
-        joblib.dump(dict(pattern_memory), PATTERN_MEMORY_PATH)
+    if pattern_module.pattern_memory is not None:
+        joblib.dump(dict(pattern_module.pattern_memory), PATTERN_MEMORY_PATH)
     if rl_agent is not None:
         joblib.dump(dict(rl_agent.q_table), RL_AGENT_PATH)
 
@@ -62,6 +63,8 @@ def load_models(rl_instance):
         pattern_memory = defaultdict(pattern_outer_default, loaded)
     else:
         pattern_memory = defaultdict(pattern_outer_default)
+    pattern_module.pattern_memory.clear()
+    pattern_module.pattern_memory.update(pattern_memory)
 
     if os.path.exists(RL_AGENT_PATH):
         rl_agent.q_table = defaultdict(default_q, joblib.load(RL_AGENT_PATH))
