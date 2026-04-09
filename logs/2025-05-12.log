@@ -1,0 +1,43 @@
+[03:22:45] [MODEL] 🚀 Initialized new main model.
+[03:22:45] [MODEL] 🚀 Initialized new secondary model.
+[03:23:28] [MODEL] 🚀 Initialized new main model.
+[03:23:28] [MODEL] 🚀 Initialized new secondary model.
+[03:24:17] [MODEL] 🚀 Initialized new main model.
+[03:24:17] [MODEL] 🚀 Initialized new secondary model.
+[03:25:17] [SAVE] 💾 Models saved.
+[03:26:17] [SAVE] 💾 Models saved.
+[03:26:33] [MODEL] 🚀 Initialized new main model.
+[03:26:33] [MODEL] 🚀 Initialized new secondary model.
+[03:26:41] [MODEL] 🚀 Initialized new main model.
+[03:26:41] [MODEL] 🚀 Initialized new secondary model.
+[03:27:41] [SAVE] 💾 Models saved.
+[03:28:41] [SAVE] 💾 Models saved.
+[03:29:41] [SAVE] 💾 Models saved.
+[03:30:41] [SAVE] 💾 Models saved.
+[03:31:22] [MODEL] ✅ Loaded main model.
+[03:31:22] [MODEL] ✅ Loaded secondary model.
+[03:32:22] [SAVE] 💾 Models saved.
+[03:33:22] [SAVE] 💾 Models saved.
+[03:34:22] [SAVE] 💾 Models saved.
+[03:35:22] [SAVE] 💾 Models saved.
+[03:35:56] [MODEL] ✅ Loaded main model.
+[03:35:56] [MODEL] ✅ Loaded secondary model.
+[03:36:00] 🎯 Kết quả: Bong | 🎲 Dự đoán: [np.str_('Gau'), np.str_('Kem'), np.str_('Niem'), np.str_('Anh')] | 💰 Profit: -1800
+[03:36:00] [SAVE] 💾 Models saved.
+[03:36:04] 🎯 Kết quả: Bong | 🎲 Dự đoán: [np.str_('Tien'), np.str_('Kem'), np.str_('Dam'), np.str_('Bong')] | 💰 Profit: -400.0
+[03:36:04] [SAVE] 💾 Models saved.
+[03:36:06] 🎯 Kết quả: Dam | 🎲 Dự đoán: [np.str_('Bong'), np.str_('Kem'), np.str_('Anh'), np.str_('Gau')] | 💰 Profit: -2700
+[03:36:06] [SAVE] 💾 Models saved.
+[03:36:09] 🎯 Kết quả: Tien | 🎲 Dự đoán: [np.str_('Anh'), np.str_('Gau'), np.str_('Dam'), np.str_('Niem')] | 💰 Profit: -1800
+[03:36:09] [SAVE] 💾 Models saved.
+[03:36:56] [SAVE] 💾 Models saved.
+[03:37:56] [SAVE] 💾 Models saved.
+[03:38:58] [MODEL] ✅ Loaded main model.
+[03:38:58] [MODEL] ✅ Loaded secondary model.
+[03:39:35] [MODEL] ✅ Loaded main model.
+[03:39:35] [MODEL] ✅ Loaded secondary model.
+[03:39:58] [SAVE] 💾 Models saved.
+[03:40:35] [SAVE] 💾 Models saved.
+[03:40:58] [SAVE] 💾 Models saved.
+[03:41:35] [SAVE] 💾 Models saved.
+[03:41:58] [SAVE] 💾 Models saved.

@@ -1,0 +1,159 @@
+body {
+    margin: 0;
+    font-family: 'Segoe UI', sans-serif;
+    background-color: #f5f7fa;
+    color: #333;
+}
+
+.sidebar {
+    width: 220px;
+    background: #2c3e50;
+    height: 100vh;
+    position: fixed;
+    top: 0;
+    left: 0;
+    color: white;
+    padding: 20px;
+}
+
+.sidebar h2 {
+    color: #00c3ff;
+    font-size: 22px;
+}
+
+.sidebar a {
+    color: #ccc;
+    display: block;
+    margin: 20px 0;
+    text-decoration: none;
+}
+
+.header {
+    padding: 20px;
+    background: white;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    font-size: 45px;
+    text-align: center;
+}
+
+.stats {
+    margin-left: 220px;
+    padding: 20px;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 20px;
+}
+
+.big-chart {
+    padding: 20px;
+}
+
+.chart-row {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 20px;
+}
+
+.chart-box {
+    background: white;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+    height: 400px;
+}
+
+.chart-box canvas {
+    width: 100%;
+    height: 100%;
+}
+
+.logs {
+    background: white;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    
+}
+
+.log-box {
+    background: #f0f0f0;
+    padding: 10px;
+    border-radius: 6px;
+    max-height: 270px;
+    overflow-y: auto;
+    font-size: 20px;
+}
+
+.highlight { color: #00c3ff; font-weight: bold; font-size: 18px; }
+.alert { color: #e74c3c; font-weight: bold; font-size: 18px; }
+
+@media (max-width: 1000px) {
+    .chart-row {
+        grid-template-columns: 1fr;
+    }
+}
+
+
+
+.status-board {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 30px;
+    padding: 30px;
+    background: white;
+    border-radius: 12px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.05);
+    margin: 20px 20px 20px 20px;
+}
+
+.status-item {
+    background: linear-gradient(135deg, #00c3ff, #0072ff);
+    color: white;
+    padding: 20px;
+    border-radius: 12px;
+    text-align: center;
+    font-size: 22px;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+    transition: transform 0.2s;
+}
+
+.status-item:hover {
+    transform: translateY(-5px);
+}
+
+.status-item .value {
+    font-size: 50px;
+    display: block;
+    margin-top: 10px;
+    font-weight: bold;
+}
+
+.status-item .normal { color: #00ff95; }
+.status-item .drift { color: #ff5050; }
+
+.status-item.total-called {
+    background: linear-gradient(135deg, #ff7e5f, #feb47b); /* Cam */
+}
+
+.status-item.total-correct {
+    background: linear-gradient(135deg, #43cea2, #185a9d); /* Xanh ngọc */
+}
+
+.status-item.total-profit {
+    background: linear-gradient(135deg, #f7971e, #ffd200); /* Vàng */
+}
+
+.status-item.winrate {
+    background: linear-gradient(135deg, #8e2de2, #4a00e0); /* Tím */
+}
+
+.status-item.drift-status {
+    background: linear-gradient(135deg, #00c3ff, #0072ff); /* Xanh nước biển */
+}
+
+.status-item.last-prediction {
+    background: linear-gradient(135deg, #ff6a00, #ee0979); /* Đỏ hồng */
+}

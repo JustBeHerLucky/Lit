@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI Betting Dashboard</title>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <link rel="stylesheet" href="/static/dashboard.css">
+    <script src="/static/dashboard.js"></script>
+</head>
+<body>
+
+<div class="header">📊 AI Betting Overview</div>
+
+<div class="status-board">
+    <div class="status-item  total-called">
+        Total Called
+        <span class="value" id="total_called">-</span>
+    </div>
+    <div class="status-item total-correct">
+        Total Correct
+        <span class="value" id="total_correct">-</span>
+    </div>
+    <div class="status-item total-profit">
+        Total Profit
+        <span class="value" id="total_profit">-</span>
+    </div>
+    <div class="status-item winrate">
+        Winrate
+        <span class="value" id="winrate">-</span>
+    </div>
+    <div class="status-item drift-status">
+        Drift Status
+        <span class="value" id="drift_status">-</span>
+    </div>
+    <div class="status-item last-prediction">
+        Last Prediction
+        <span class="value" id="last_prediction">-</span>
+    </div>
+</div>
+<div id="history-bar" style="display: flex; flex-direction: row-reverse; gap: 5px; margin-top: 20px; justify-content: center;">
+    <!-- Các hình ảnh sẽ được JS thêm vào đây -->
+</div>
+<div class="big-chart">
+    <div class="chart-row">
+        <div class="chart-box">
+            <h4>Accuracy Chart</h4>
+            <canvas id="accuracyChart"></canvas>
+        </div>
+        <div class="chart-box">
+            <h4>Profit Trend</h4>
+            <canvas id="profitChart"></canvas>
+        </div>
+    </div>
+</div>
+
+<div class="logs">
+    <h4>Logs</h4>
+    <div id="logs" class="log-box">Loading logs...</div>
+</div>
+
+</body>
+</html>

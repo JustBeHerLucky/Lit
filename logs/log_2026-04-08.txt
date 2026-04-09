@@ -1,0 +1,1222 @@
+[16:21:12] ✅ System Ready.
+[16:21:42] New prediction → Main: ['Kem', 'Phao'] | Rare: ['Gau', 'Tien'] | Top confidence: 0.125 | Strategy: Normal
+[16:22:11] New prediction → Main: ['Phao', 'Kem'] | Rare: ['Gau', 'Tien'] | Top confidence: 0.3438 | Strategy: Normal
+[16:22:44] New prediction → Main: ['Kem', 'Phao'] | Rare: ['Gau', 'Tien'] | Top confidence: 0.2188 | Strategy: Normal
+[16:23:16] [MISS] Consecutive misses: 1
+[16:23:16] New prediction → Main: ['Phao', 'Kem'] | Rare: ['Gau', 'Tien'] | Top confidence: 0.2604 | Strategy: Normal
+[16:23:48] New prediction → Main: ['Phao', 'Kem'] | Rare: ['Anh', 'Gau'] | Top confidence: 0.175 | Strategy: Normal
+[16:24:19] [MISS] Consecutive misses: 1
+[16:24:19] New prediction → Main: ['Kem', 'Phao'] | Rare: [] | Top confidence: 0.23 | Strategy: Normal
+[16:24:29] [MISS] Consecutive misses: 2
+[16:24:29] New prediction → Main: ['Bong', 'Dam'] | Rare: [] | Top confidence: 0.4999 | Strategy: Normal
+[16:24:51] New prediction → Main: ['Bong', 'Phao'] | Rare: [] | Top confidence: 0.44 | Strategy: Normal
+[16:25:24] [MISS] Consecutive misses: 1
+[16:25:24] New prediction → Main: ['Phao', 'Dam'] | Rare: [] | Top confidence: 0.5861 | Strategy: Normal
+[16:25:55] [MISS] Consecutive misses: 2
+[16:25:55] New prediction → Main: ['Kem', 'Phao'] | Rare: [] | Top confidence: 0.4844 | Strategy: Normal
+[16:26:30] [MISS] Consecutive misses: 3
+[16:26:30] New prediction → Main: ['Dam', 'Phao'] | Rare: [] | Top confidence: 0.4375 | Strategy: Normal
+[16:26:59] [MISS] Consecutive misses: 4
+[16:26:59] New prediction → Main: ['Phao', 'Bong'] | Rare: [] | Top confidence: 0.4962 | Strategy: Normal
+[16:27:31] [MISS] Consecutive misses: 5
+[16:27:31] New prediction → Main: ['Phao', 'Kem'] | Rare: [] | Top confidence: 0.4167 | Strategy: Normal
+[16:28:04] [MISS] Consecutive misses: 6
+[16:28:04] New prediction → Main: ['Dam', 'Phao'] | Rare: [] | Top confidence: 0.3332 | Strategy: Normal
+[16:28:39] [MISS] Consecutive misses: 7
+[16:28:39] New prediction → Main: ['Kem', 'Phao'] | Rare: [] | Top confidence: 0.4368 | Strategy: Normal
+[16:29:07] New prediction → Main: ['Kem', 'Dam'] | Rare: [] | Top confidence: 0.44 | Strategy: Normal
+[16:29:38] [MISS] Consecutive misses: 1
+[16:29:38] New prediction → Main: ['Dam', 'Kem'] | Rare: [] | Top confidence: 0.4398 | Strategy: Normal
+[16:30:11] [MISS] Consecutive misses: 2
+[16:30:11] New prediction → Main: ['Kem', 'Dam'] | Rare: [] | Top confidence: 0.5308 | Strategy: Normal
+[16:30:46] [MISS] Consecutive misses: 3
+[16:30:46] New prediction → Main: ['Kem', 'Bong'] | Rare: [] | Top confidence: 0.5195 | Strategy: Normal
+[16:31:15] [MISS] Consecutive misses: 4
+[16:31:15] New prediction → Main: ['Bong', 'Phao'] | Rare: [] | Top confidence: 0.4534 | Strategy: Normal
+[16:31:47] New prediction → Main: ['Phao', 'Kem'] | Rare: [] | Top confidence: 0.4327 | Strategy: Normal
+[16:31:58] ✅ System Ready.
+[16:32:19] New prediction → Main: ['Kem', 'Phao'] | Rare: [] | Top confidence: 0.125 | Strategy: Normal
+[16:32:52] [MISS] Consecutive misses: 1
+[16:32:52] New prediction → Main: ['Dam', 'Kem'] | Rare: [] | Top confidence: 0.3438 | Strategy: Normal
+[16:33:22] New prediction → Main: ['Dam', 'Kem'] | Rare: [] | Top confidence: 0.2188 | Strategy: Normal
+[16:34:02] [MISS] Consecutive misses: 1
+[16:34:02] New prediction → Main: ['Dam', 'Kem'] | Rare: ['Gau'] | Top confidence: 0.2604 | Strategy: Normal
+[16:34:30] New prediction → Main: ['Dam', 'Kem'] | Rare: ['Gau'] | Top confidence: 0.175 | Strategy: Normal
+[16:35:00] New prediction → Main: ['Dam', 'Phao'] | Rare: ['Tien'] | Top confidence: 0.17 | Strategy: Normal
+[16:35:32] New prediction → Main: ['Dam', 'Phao'] | Rare: ['Anh'] | Top confidence: 0.4231 | Strategy: Normal
+[16:36:04] [MISS] Consecutive misses: 1
+[16:36:04] New prediction → Main: ['Phao', 'Dam'] | Rare: ['Niem'] | Top confidence: 0.4413 | Strategy: Normal
+[16:36:36] New prediction → Main: ['Dam', 'Kem'] | Rare: ['Anh'] | Top confidence: 0.44 | Strategy: Normal
+[16:37:09] New prediction → Main: ['Bong', 'Dam'] | Rare: ['Gau'] | Top confidence: 0.4733 | Strategy: Normal
+[16:37:40] New prediction → Main: ['Bong', 'Phao'] | Rare: ['Tien', 'Gau'] | Top confidence: 0.3392 | Strategy: Normal
+[16:38:11] [MISS] Consecutive misses: 1
+[16:38:11] New prediction → Main: ['Kem', 'Dam'] | Rare: ['Anh'] | Top confidence: 0.4583 | Strategy: Normal
+[16:38:42] [MISS] Consecutive misses: 2
+[16:38:42] New prediction → Main: ['Phao', 'Dam'] | Rare: ['Tien'] | Top confidence: 0.4514 | Strategy: Normal
+[16:39:15] New prediction → Main: ['Bong', 'Dam'] | Rare: ['Tien'] | Top confidence: 0.4327 | Strategy: Normal
+[16:39:50] New prediction → Main: ['Bong', 'Phao'] | Rare: ['Gau'] | Top confidence: 0.4315 | Strategy: Normal
+[16:40:21] New prediction → Main: ['Bong', 'Dam'] | Rare: ['Anh'] | Top confidence: 0.4133 | Strategy: Normal
+[16:40:51] New prediction → Main: ['Bong', 'Dam'] | Rare: ['Tien'] | Top confidence: 0.4125 | Strategy: Normal
+[16:41:24] [MISS] Consecutive misses: 1
+[16:41:24] New prediction → Main: ['Phao', 'Dam'] | Rare: ['Gau'] | Top confidence: 0.4353 | Strategy: Normal
+[16:41:56] [MISS] Consecutive misses: 2
+[16:41:56] New prediction → Main: ['Kem', 'Dam'] | Rare: ['Anh'] | Top confidence: 0.4699 | Strategy: Normal
+[16:42:29] [MISS] Consecutive misses: 3
+[16:42:29] New prediction → Main: ['Dam', 'Bong'] | Rare: ['Gau'] | Top confidence: 0.5137 | Strategy: Normal
+[16:43:00] New prediction → Main: ['Bong', 'Dam'] | Rare: ['Anh'] | Top confidence: 0.4581 | Strategy: Normal
+[16:43:32] [MISS] Consecutive misses: 1
+[16:43:32] New prediction → Main: ['Bong', 'Dam'] | Rare: [] | Top confidence: 0.6223 | Strategy: Normal
+[16:44:03] [MISS] Consecutive misses: 2
+[16:44:03] New prediction → Main: ['Phao', 'Bong'] | Rare: [] | Top confidence: 0.4196 | Strategy: Normal
+[16:44:39] [MISS] Consecutive misses: 3
+[16:44:39] New prediction → Main: ['Dam', 'Kem'] | Rare: [] | Top confidence: 0.6466 | Strategy: Normal
+[16:45:08] New prediction → Main: ['Bong', 'Phao'] | Rare: [] | Top confidence: 0.4757 | Strategy: Normal
+[16:45:40] [MISS] Consecutive misses: 1
+[16:45:40] New prediction → Main: ['Phao', 'Kem'] | Rare: [] | Top confidence: 0.5194 | Strategy: Normal
+[16:46:11] [MISS] Consecutive misses: 2
+[16:46:11] New prediction → Main: ['Kem', 'Bong'] | Rare: [] | Top confidence: 0.4231 | Strategy: Normal
+[16:46:47] [MISS] Consecutive misses: 3
+[16:46:47] New prediction → Main: ['Bong', 'Kem'] | Rare: [] | Top confidence: 0.4589 | Strategy: Normal
+[16:47:29] [MISS] Consecutive misses: 4
+[16:47:29] New prediction → Main: ['Bong', 'Dam'] | Rare: [] | Top confidence: 0.4575 | Strategy: Normal
+[16:47:47] New prediction → Main: ['Phao', 'Bong'] | Rare: [] | Top confidence: 0.4676 | Strategy: Normal
+[16:48:19] [MISS] Consecutive misses: 1
+[16:48:19] New prediction → Main: ['Bong', 'Dam'] | Rare: [] | Top confidence: 0.44 | Strategy: Normal
+[16:48:52] [MISS] Consecutive misses: 2
+[16:48:52] New prediction → Main: ['Dam', 'Phao'] | Rare: [] | Top confidence: 0.4583 | Strategy: Normal
+[16:49:23] [MISS] Consecutive misses: 3
+[16:49:23] New prediction → Main: ['Dam', 'Phao'] | Rare: [] | Top confidence: 0.4525 | Strategy: Normal
+[16:49:56] New prediction → Main: ['Dam', 'Phao'] | Rare: [] | Top confidence: 0.4289 | Strategy: Normal
+[16:50:26] New prediction → Main: ['Phao', 'Dam'] | Rare: [] | Top confidence: 0.4635 | Strategy: Normal
+[16:51:00] New prediction → Main: ['Phao', 'Dam'] | Rare: [] | Top confidence: 0.4464 | Strategy: Normal
+[16:51:32] New prediction → Main: ['Phao', 'Bong'] | Rare: [] | Top confidence: 0.4333 | Strategy: Normal
+[16:52:04] [MISS] Consecutive misses: 1
+[16:52:04] New prediction → Main: ['Bong', 'Kem'] | Rare: [] | Top confidence: 0.4231 | Strategy: Normal
+[16:52:35] [MISS] Consecutive misses: 2
+[16:52:35] New prediction → Main: ['Bong', 'Kem'] | Rare: [] | Top confidence: 0.4281 | Strategy: Normal
+[16:53:10] [MISS] Consecutive misses: 3
+[16:53:10] New prediction → Main: ['Phao', 'Bong'] | Rare: [] | Top confidence: 0.428 | Strategy: Normal
+[16:53:39] [MISS] Consecutive misses: 4
+[16:53:39] New prediction → Main: ['Bong', 'Phao'] | Rare: [] | Top confidence: 0.475 | Strategy: Normal
+[16:54:11] [MISS] Consecutive misses: 5
+[16:54:11] New prediction → Main: ['Bong', 'Dam'] | Rare: [] | Top confidence: 0.5012 | Strategy: Normal
+[16:54:42] [MISS] Consecutive misses: 6
+[16:54:42] New prediction → Main: ['Phao', 'Dam'] | Rare: [] | Top confidence: 0.4633 | Strategy: Normal
+[16:55:17] [MISS] Consecutive misses: 7
+[16:55:17] New prediction → Main: ['Phao', 'Dam'] | Rare: [] | Top confidence: 0.4998 | Strategy: Normal
+[16:55:48] [MISS] Consecutive misses: 8
+[16:55:48] New prediction → Main: ['Bong', 'Phao'] | Rare: [] | Top confidence: 0.4445 | Strategy: Normal
+[16:56:18] [MISS] Consecutive misses: 9
+[16:56:18] New prediction → Main: ['Bong', 'Dam'] | Rare: [] | Top confidence: 0.4017 | Strategy: Normal
+[16:56:51] [MISS] Consecutive misses: 10
+[16:56:51] New prediction → Main: ['Dam', 'Kem'] | Rare: [] | Top confidence: 0.4905 | Strategy: Normal
+[16:57:24] New prediction → Main: ['Phao', 'Dam'] | Rare: [] | Top confidence: 0.4011 | Strategy: Normal
+[16:57:54] New prediction → Main: ['Phao', 'Dam'] | Rare: [] | Top confidence: 0.4551 | Strategy: Normal
+[16:58:28] [MISS] Consecutive misses: 1
+[16:58:28] New prediction → Main: ['Phao', 'Dam'] | Rare: [] | Top confidence: 0.4441 | Strategy: Normal
+[16:59:26] [MISS] Consecutive misses: 2
+[16:59:26] New prediction → Main: ['Phao', 'Dam'] | Rare: [] | Top confidence: 0.6364 | Strategy: Normal
+[16:59:30] [MISS] Consecutive misses: 3
+[16:59:30] New prediction → Main: ['Dam', 'Phao'] | Rare: [] | Top confidence: 0.455 | Strategy: Normal
+[17:00:30] [MISS] Consecutive misses: 4
+[17:00:30] New prediction → Main: ['Phao', 'Dam'] | Rare: [] | Top confidence: 0.4192 | Strategy: Normal
+[17:00:31] New prediction → Main: ['Dam', 'Phao'] | Rare: [] | Top confidence: 0.4941 | Strategy: Normal
+[17:01:09] [MISS] Consecutive misses: 1
+[17:01:09] New prediction → Main: ['Bong', 'Dam', 'Kem'] | Rare: [] | Top confidence: 0.4516 | Strategy: Normal
+[17:01:47] New prediction → Main: ['Kem', 'Dam', 'Phao'] | Rare: [] | Top confidence: 0.4217 | Strategy: Normal
+[17:02:33] [MISS] Consecutive misses: 1
+[17:02:33] New prediction → Main: ['Phao', 'Kem', 'Dam'] | Rare: [] | Top confidence: 0.5753 | Strategy: Normal
+[17:02:42] [MISS] Consecutive misses: 2
+[17:02:42] New prediction → Main: ['Kem', 'Dam', 'Bong'] | Rare: [] | Top confidence: 0.4717 | Strategy: Normal
+[17:03:18] New prediction → Main: ['Bong', 'Dam', 'Kem'] | Rare: [] | Top confidence: 0.4138 | Strategy: Normal
+[17:03:49] New prediction → Main: ['Bong', 'Phao', 'Dam'] | Rare: [] | Top confidence: 0.4296 | Strategy: Normal
+[17:04:29] New prediction → Main: ['Phao', 'Bong', 'Dam'] | Rare: [] | Top confidence: 0.3554 | Strategy: Normal
+[17:04:55] New prediction → Main: ['Dam', 'Kem', 'Bong'] | Rare: [] | Top confidence: 0.4466 | Strategy: Normal
+[17:05:24] [MISS] Consecutive misses: 1
+[17:05:24] New prediction → Main: ['Bong', 'Kem', 'Dam'] | Rare: [] | Top confidence: 0.4473 | Strategy: Normal
+[17:06:04] New prediction → Main: ['Phao', 'Dam', 'Kem'] | Rare: [] | Top confidence: 0.4191 | Strategy: Normal
+[17:06:38] New prediction → Main: ['Bong', 'Phao', 'Dam'] | Rare: [] | Top confidence: 0.4457 | Strategy: Normal
+[17:06:58] New prediction → Main: ['Bong', 'Dam', 'Phao'] | Rare: [] | Top confidence: 0.5037 | Strategy: Normal
+[17:07:34] New prediction → Main: ['Phao', 'Bong', 'Dam'] | Rare: [] | Top confidence: 0.5429 | Strategy: Normal
+[17:08:10] [MISS] Consecutive misses: 1
+[17:08:10] New prediction → Main: ['Dam', 'Bong', 'Phao'] | Rare: [] | Top confidence: 0.6735 | Strategy: Normal
+[17:08:37] New prediction → Main: ['Bong', 'Dam', 'Phao'] | Rare: [] | Top confidence: 0.4583 | Strategy: Normal
+[17:09:08] [MISS] Consecutive misses: 1
+[17:09:08] New prediction → Main: ['Phao', 'Dam', 'Bong'] | Rare: [] | Top confidence: 0.5119 | Strategy: Normal
+[17:09:37] New prediction → Main: ['Dam', 'Bong'] | Rare: ['Gau', 'Tien'] | Top confidence: 0.6696 | Strategy: Normal
+[17:10:07] New prediction → Main: ['Phao', 'Bong'] | Rare: ['Gau'] | Top confidence: 0.4569 | Strategy: Normal
+[17:10:43] [MISS] Consecutive misses: 1
+[17:10:43] New prediction → Main: ['Phao', 'Bong'] | Rare: ['Niem'] | Top confidence: 0.4583 | Strategy: Normal
+[17:11:17] [MISS] Consecutive misses: 2
+[17:11:17] New prediction → Main: ['Phao', 'Dam'] | Rare: ['Anh'] | Top confidence: 0.4686 | Strategy: Normal
+[17:11:45] [MISS] Consecutive misses: 3
+[17:11:45] New prediction → Main: ['Bong', 'Kem'] | Rare: ['Gau'] | Top confidence: 0.4078 | Strategy: Normal
+[17:12:18] [MISS] Consecutive misses: 4
+[17:12:18] New prediction → Main: ['Bong', 'Dam'] | Rare: ['Gau'] | Top confidence: 0.4781 | Strategy: Normal
+[17:12:52] [MISS] Consecutive misses: 5
+[17:12:52] New prediction → Main: ['Dam', 'Kem'] | Rare: ['Niem'] | Top confidence: 0.4583 | Strategy: Normal
+[17:13:21] [MISS] Consecutive misses: 6
+[17:13:21] New prediction → Main: ['Phao', 'Kem'] | Rare: [] | Top confidence: 0.4785 | Strategy: Normal
+[17:14:18] New prediction → Main: ['Dam', 'Kem'] | Rare: [] | Top confidence: 0.5334 | Strategy: Normal
+[17:14:24] [MISS] Consecutive misses: 1
+[17:14:24] New prediction → Main: ['Dam', 'Kem'] | Rare: [] | Top confidence: 0.2613 | Strategy: Normal
+[17:14:58] [MISS] Consecutive misses: 2
+[17:14:58] New prediction → Main: ['Bong', 'Dam'] | Rare: [] | Top confidence: 0.5 | Strategy: Normal
+[17:15:32] [MISS] Consecutive misses: 3
+[17:15:32] New prediction → Main: ['Bong', 'Dam'] | Rare: [] | Top confidence: 0.5229 | Strategy: Normal
+[17:16:03] New prediction → Main: ['Bong', 'Dam'] | Rare: [] | Top confidence: 0.4613 | Strategy: Normal
+[17:16:31] [MISS] Consecutive misses: 1
+[17:16:31] New prediction → Main: ['Phao', 'Kem'] | Rare: [] | Top confidence: 0.4414 | Strategy: Normal
+[17:17:32] New prediction → Main: ['Dam', 'Phao'] | Rare: [] | Top confidence: 0.5577 | Strategy: Normal
+[17:17:35] New prediction → Main: ['Phao', 'Kem'] | Rare: [] | Top confidence: 0.4631 | Strategy: Normal
+[17:18:11] [MISS] Consecutive misses: 1
+[17:18:11] New prediction → Main: ['Dam', 'Bong'] | Rare: [] | Top confidence: 0.4392 | Strategy: Normal
+[17:18:41] New prediction → Main: ['Phao', 'Kem'] | Rare: [] | Top confidence: 0.4603 | Strategy: Normal
+[17:19:15] New prediction → Main: ['Bong', 'Phao'] | Rare: [] | Top confidence: 0.431 | Strategy: Normal
+[17:19:50] New prediction → Main: ['Phao', 'Dam'] | Rare: [] | Top confidence: 0.4996 | Strategy: Normal
+[17:20:19] [MISS] Consecutive misses: 1
+[17:20:19] New prediction → Main: ['Bong', 'Dam'] | Rare: [] | Top confidence: 0.4603 | Strategy: Normal
+[17:20:52] [MISS] Consecutive misses: 2
+[17:20:52] New prediction → Main: ['Phao', 'Bong'] | Rare: [] | Top confidence: 0.4353 | Strategy: Normal
+[17:21:23] [MISS] Consecutive misses: 3
+[17:21:23] New prediction → Main: ['Dam', 'Bong'] | Rare: [] | Top confidence: 0.4878 | Strategy: Normal
+[17:21:57] New prediction → Main: ['Bong', 'Dam'] | Rare: [] | Top confidence: 0.5251 | Strategy: Normal
+[17:22:27] [MISS] Consecutive misses: 1
+[17:22:27] New prediction → Main: ['Phao', 'Dam'] | Rare: [] | Top confidence: 0.465 | Strategy: Normal
+[17:23:00] New prediction → Main: ['Phao', 'Dam'] | Rare: [] | Top confidence: 0.476 | Strategy: Normal
+[17:23:31] [MISS] Consecutive misses: 1
+[17:23:31] New prediction → Main: ['Bong', 'Kem'] | Rare: [] | Top confidence: 0.4752 | Strategy: Normal
+[17:24:06] [MISS] Consecutive misses: 2
+[17:24:06] New prediction → Main: ['Bong', 'Kem'] | Rare: [] | Top confidence: 0.4398 | Strategy: Normal
+[17:24:35] [MISS] Consecutive misses: 3
+[17:24:35] New prediction → Main: ['Bong', 'Kem'] | Rare: [] | Top confidence: 0.4667 | Strategy: Normal
+[17:25:07] [MISS] Consecutive misses: 4
+[17:25:07] New prediction → Main: ['Phao', 'Dam'] | Rare: [] | Top confidence: 0.4648 | Strategy: Normal
+[17:25:39] [MISS] Consecutive misses: 5
+[17:25:39] New prediction → Main: ['Dam', 'Phao'] | Rare: [] | Top confidence: 0.5138 | Strategy: Normal
+[17:26:11] [MISS] Consecutive misses: 6
+[17:26:11] New prediction → Main: ['Dam', 'Bong'] | Rare: [] | Top confidence: 0.4667 | Strategy: Normal
+[17:26:27] [MISS] Consecutive misses: 7
+[17:26:27] New prediction → Main: ['Bong', 'Dam', 'Phao'] | Rare: [] | Top confidence: 0.5806 | Strategy: Normal
+[17:26:37] [MISS] Consecutive misses: 8
+[17:26:37] New prediction → Main: ['Phao', 'Dam', 'Bong'] | Rare: [] | Top confidence: 0.4402 | Strategy: Normal
+[17:26:43] New prediction → Main: ['Dam', 'Phao', 'Kem'] | Rare: [] | Top confidence: 0.4179 | Strategy: Normal
+[17:26:50] New prediction → Main: ['Kem', 'Phao', 'Bong'] | Rare: [] | Top confidence: 0.4357 | Strategy: Normal
+[17:27:15] New prediction → Main: ['Dam', 'Bong', 'Kem'] | Rare: [] | Top confidence: 0.4742 | Strategy: Normal
+[17:27:16] [MISS] Consecutive misses: 1
+[17:27:16] New prediction → Main: ['Phao', 'Bong', 'Kem'] | Rare: [] | Top confidence: 0.446 | Strategy: Normal
+[17:27:25] New prediction → Main: ['Kem', 'Bong', 'Dam'] | Rare: [] | Top confidence: 0.4293 | Strategy: Normal
+[17:27:28] [MISS] Consecutive misses: 1
+[17:27:28] New prediction → Main: ['Dam', 'Bong', 'Kem'] | Rare: [] | Top confidence: 0.4721 | Strategy: Normal
+[17:27:31] [MISS] Consecutive misses: 2
+[17:27:31] New prediction → Main: ['Bong', 'Dam', 'Kem'] | Rare: [] | Top confidence: 0.4414 | Strategy: Normal
+[17:27:40] [MISS] Consecutive misses: 3
+[17:27:40] New prediction → Main: ['Bong', 'Dam', 'Kem'] | Rare: [] | Top confidence: 0.413 | Strategy: Normal
+[17:27:41] [MISS] Consecutive misses: 4
+[17:27:41] New prediction → Main: ['Dam', 'Kem', 'Phao'] | Rare: [] | Top confidence: 0.4133 | Strategy: Normal
+[17:27:47] New prediction → Main: ['Bong', 'Dam', 'Kem'] | Rare: [] | Top confidence: 0.4136 | Strategy: Normal
+[17:27:49] New prediction → Main: ['Dam', 'Bong', 'Kem'] | Rare: [] | Top confidence: 0.5254 | Strategy: Normal
+[17:27:55] New prediction → Main: ['Bong', 'Dam', 'Kem'] | Rare: [] | Top confidence: 0.456 | Strategy: Normal
+[17:27:58] New prediction → Main: ['Phao', 'Dam', 'Kem'] | Rare: [] | Top confidence: 0.4971 | Strategy: Normal
+[17:28:04] New prediction → Main: ['Bong', 'Phao', 'Kem'] | Rare: [] | Top confidence: 0.4964 | Strategy: Normal
+[17:28:07] [MISS] Consecutive misses: 1
+[17:28:07] New prediction → Main: ['Bong', 'Kem', 'Phao'] | Rare: [] | Top confidence: 0.4486 | Strategy: Normal
+[17:28:54] [MISS] Consecutive misses: 2
+[17:28:54] New prediction → Main: ['Phao', 'Bong', 'Kem'] | Rare: [] | Top confidence: 0.4128 | Strategy: Normal
+[17:29:24] New prediction → Main: ['Phao', 'Bong', 'Kem'] | Rare: [] | Top confidence: 0.4319 | Strategy: Normal
+[17:29:55] New prediction → Main: ['Dam', 'Bong', 'Kem'] | Rare: [] | Top confidence: 0.4453 | Strategy: Normal
+[17:30:27] [MISS] Consecutive misses: 1
+[17:30:27] New prediction → Main: ['Kem', 'Dam', 'Bong'] | Rare: [] | Top confidence: 0.4449 | Strategy: Normal
+[17:31:02] [MISS] Consecutive misses: 2
+[17:31:02] New prediction → Main: ['Dam', 'Bong', 'Kem'] | Rare: [] | Top confidence: 0.4282 | Strategy: Normal
+[17:31:33] [MISS] Consecutive misses: 3
+[17:31:33] New prediction → Main: ['Dam', 'Bong', 'Phao'] | Rare: [] | Top confidence: 0.4708 | Strategy: Normal
+[17:32:04] [MISS] Consecutive misses: 4
+[17:32:04] New prediction → Main: ['Dam', 'Phao', 'Bong'] | Rare: [] | Top confidence: 0.4929 | Strategy: Normal
+[17:32:53] New prediction → Main: ['Dam', 'Bong', 'Kem'] | Rare: [] | Top confidence: 0.581 | Strategy: Normal
+[17:33:05] [MISS] Consecutive misses: 1
+[17:33:05] New prediction → Main: ['Bong', 'Phao', 'Dam'] | Rare: [] | Top confidence: 0.4499 | Strategy: Normal
+[17:33:41] New prediction → Main: ['Bong', 'Phao'] | Rare: ['Tien'] | Top confidence: 0.4693 | Strategy: Normal
+[17:34:55] [MISS] Consecutive misses: 1
+[17:34:55] New prediction → Main: [] | Rare: [] | Top confidence: 0.4375 | Strategy: Normal
+[17:34:58] [MISS] Consecutive misses: 2
+[17:34:58] New prediction → Main: ['Dam', 'Kem'] | Rare: ['Gau', 'Tien'] | Top confidence: 0.4874 | Strategy: Normal
+[17:35:15] New prediction → Main: ['Dam', 'Kem'] | Rare: ['Anh', 'Tien'] | Top confidence: 0.4483 | Strategy: Normal
+[17:35:48] [MISS] Consecutive misses: 1
+[17:35:48] New prediction → Main: ['Phao', 'Dam'] | Rare: ['Tien', 'Gau'] | Top confidence: 0.574 | Strategy: Normal
+[17:36:21] [MISS] Consecutive misses: 2
+[17:36:21] New prediction → Main: ['Dam', 'Kem'] | Rare: ['Tien', 'Niem'] | Top confidence: 0.4511 | Strategy: Normal
+[17:36:53] [MISS] Consecutive misses: 3
+[17:36:53] New prediction → Main: ['Bong', 'Phao'] | Rare: ['Niem', 'Tien'] | Top confidence: 0.4873 | Strategy: Normal
+[17:37:27] New prediction → Main: ['Dam', 'Phao'] | Rare: ['Niem', 'Tien'] | Top confidence: 0.4495 | Strategy: Normal
+[17:37:57] [MISS] Consecutive misses: 1
+[17:37:57] New prediction → Main: ['Kem', 'Dam'] | Rare: ['Gau', 'Tien'] | Top confidence: 0.4821 | Strategy: Normal
+[17:38:27] [MISS] Consecutive misses: 2
+[17:38:27] New prediction → Main: ['Dam', 'Phao'] | Rare: ['Anh', 'Tien'] | Top confidence: 0.4523 | Strategy: Normal
+[17:39:00] New prediction → Main: ['Bong', 'Dam'] | Rare: ['Tien', 'Gau'] | Top confidence: 0.4832 | Strategy: Normal
+[17:39:35] [MISS] Consecutive misses: 1
+[17:39:35] New prediction → Main: ['Dam', 'Kem'] | Rare: ['Tien', 'Niem'] | Top confidence: 0.453 | Strategy: Normal
+[17:40:03] New prediction → Main: ['Dam', 'Bong'] | Rare: [] | Top confidence: 0.4726 | Strategy: Normal
+[17:40:37] New prediction → Main: ['Phao', 'Dam'] | Rare: [] | Top confidence: 0.5149 | Strategy: Normal
+[17:41:07] New prediction → Main: ['Dam', 'Bong'] | Rare: [] | Top confidence: 0.4483 | Strategy: Normal
+[17:41:43] [MISS] Consecutive misses: 1
+[17:41:43] New prediction → Main: ['Phao', 'Dam'] | Rare: [] | Top confidence: 0.4813 | Strategy: Normal
+[17:42:11] [MISS] Consecutive misses: 2
+[17:42:11] New prediction → Main: ['Phao', 'Dam'] | Rare: [] | Top confidence: 0.4449 | Strategy: Normal
+[17:42:46] New prediction → Main: ['Bong', 'Phao'] | Rare: [] | Top confidence: 0.5143 | Strategy: Normal
+[17:43:16] [MISS] Consecutive misses: 1
+[17:43:16] New prediction → Main: ['Bong', 'Kem'] | Rare: [] | Top confidence: 0.4295 | Strategy: Normal
+[17:43:51] [MISS] Consecutive misses: 2
+[17:43:51] New prediction → Main: ['Bong', 'Phao'] | Rare: [] | Top confidence: 0.4744 | Strategy: Normal
+[17:44:19] New prediction → Main: ['Bong', 'Dam'] | Rare: [] | Top confidence: 0.4745 | Strategy: Normal
+[17:44:52] [MISS] Consecutive misses: 1
+[17:44:52] New prediction → Main: ['Bong', 'Dam'] | Rare: [] | Top confidence: 0.4287 | Strategy: Normal
+[17:45:25] [MISS] Consecutive misses: 2
+[17:45:25] New prediction → Main: ['Phao', 'Bong'] | Rare: [] | Top confidence: 0.5704 | Strategy: Normal
+[17:45:58] New prediction → Main: ['Phao', 'Bong'] | Rare: [] | Top confidence: 0.4458 | Strategy: Normal
+[17:46:28] New prediction → Main: ['Dam', 'Phao'] | Rare: [] | Top confidence: 0.5139 | Strategy: Normal
+[17:47:01] [MISS] Consecutive misses: 1
+[17:47:01] New prediction → Main: ['Dam', 'Phao'] | Rare: [] | Top confidence: 0.4452 | Strategy: Normal
+[17:47:31] [MISS] Consecutive misses: 2
+[17:47:31] New prediction → Main: ['Phao', 'Dam'] | Rare: [] | Top confidence: 0.428 | Strategy: Normal
+[17:48:06] [MISS] Consecutive misses: 3
+[17:48:06] New prediction → Main: ['Phao', 'Bong'] | Rare: [] | Top confidence: 0.5024 | Strategy: Normal
+[17:48:37] New prediction → Main: ['Dam', 'Phao'] | Rare: [] | Top confidence: 0.4779 | Strategy: Normal
+[17:49:09] New prediction → Main: ['Phao', 'Bong'] | Rare: [] | Top confidence: 0.5247 | Strategy: Normal
+[17:49:41] [MISS] Consecutive misses: 1
+[17:49:41] New prediction → Main: ['Phao', 'Dam'] | Rare: [] | Top confidence: 0.5104 | Strategy: Normal
+[17:50:15] [MISS] Consecutive misses: 2
+[17:50:15] New prediction → Main: ['Phao', 'Dam'] | Rare: [] | Top confidence: 0.264 | Strategy: Normal
+[17:50:44] [MISS] Consecutive misses: 3
+[17:50:44] New prediction → Main: ['Dam', 'Phao'] | Rare: [] | Top confidence: 0.4645 | Strategy: Normal
+[17:51:16] [MISS] Consecutive misses: 4
+[17:51:16] New prediction → Main: ['Bong', 'Kem'] | Rare: [] | Top confidence: 0.5107 | Strategy: Normal
+[17:51:48] [MISS] Consecutive misses: 5
+[17:51:48] New prediction → Main: ['Phao', 'Dam'] | Rare: [] | Top confidence: 0.5161 | Strategy: Normal
+[17:52:21] New prediction → Main: ['Phao', 'Kem'] | Rare: [] | Top confidence: 0.4623 | Strategy: Normal
+[17:52:52] New prediction → Main: ['Bong', 'Kem'] | Rare: [] | Top confidence: 0.4635 | Strategy: Normal
+[17:53:26] [MISS] Consecutive misses: 1
+[17:53:26] New prediction → Main: ['Phao', 'Kem'] | Rare: [] | Top confidence: 0.4439 | Strategy: Normal
+[17:53:58] [MISS] Consecutive misses: 2
+[17:53:58] New prediction → Main: ['Phao', 'Dam'] | Rare: [] | Top confidence: 0.4664 | Strategy: Normal
+[17:54:31] New prediction → Main: ['Bong', 'Kem'] | Rare: [] | Top confidence: 0.5286 | Strategy: Normal
+[17:55:00] New prediction → Main: ['Kem', 'Bong'] | Rare: [] | Top confidence: 0.4437 | Strategy: Normal
+[17:55:32] New prediction → Main: ['Dam', 'Phao'] | Rare: [] | Top confidence: 0.4671 | Strategy: Normal
+[17:56:05] [MISS] Consecutive misses: 1
+[17:56:05] New prediction → Main: ['Dam', 'Phao'] | Rare: [] | Top confidence: 0.444 | Strategy: Normal
+[17:56:39] [MISS] Consecutive misses: 2
+[17:56:39] New prediction → Main: ['Phao', 'Bong'] | Rare: [] | Top confidence: 0.4734 | Strategy: Normal
+[17:57:09] New prediction → Main: ['Phao', 'Dam'] | Rare: [] | Top confidence: 0.3908 | Strategy: Normal
+[17:57:41] New prediction → Main: ['Bong', 'Phao'] | Rare: [] | Top confidence: 0.4397 | Strategy: Normal
+[17:58:13] New prediction → Main: ['Phao', 'Bong'] | Rare: [] | Top confidence: 0.4619 | Strategy: Normal
+[17:58:48] New prediction → Main: ['Dam', 'Bong'] | Rare: [] | Top confidence: 0.4949 | Strategy: Normal
+[17:59:17] [MISS] Consecutive misses: 1
+[17:59:17] New prediction → Main: ['Phao', 'Dam'] | Rare: [] | Top confidence: 0.4282 | Strategy: Normal
+[17:59:48] [MISS] Consecutive misses: 2
+[17:59:48] New prediction → Main: ['Bong', 'Dam'] | Rare: [] | Top confidence: 0.4606 | Strategy: Normal
+[18:00:20] [MISS] Consecutive misses: 3
+[18:00:20] New prediction → Main: ['Dam', 'Phao'] | Rare: [] | Top confidence: 0.4439 | Strategy: Normal
+[18:00:53] [MISS] Consecutive misses: 4
+[18:00:53] New prediction → Main: ['Dam', 'Phao'] | Rare: [] | Top confidence: 0.4398 | Strategy: Normal
+[18:01:25] New prediction → Main: ['Bong', 'Dam'] | Rare: [] | Top confidence: 0.429 | Strategy: Normal
+[18:01:57] [MISS] Consecutive misses: 1
+[18:01:57] New prediction → Main: ['Kem', 'Phao'] | Rare: [] | Top confidence: 0.4454 | Strategy: Normal
+[18:02:27] [MISS] Consecutive misses: 2
+[18:02:27] New prediction → Main: ['Phao', 'Bong'] | Rare: [] | Top confidence: 0.4658 | Strategy: Normal
+[18:03:04] [MISS] Consecutive misses: 3
+[18:03:04] New prediction → Main: ['Dam', 'Phao'] | Rare: [] | Top confidence: 0.6046 | Strategy: Normal
+[18:03:34] New prediction → Main: ['Dam', 'Phao'] | Rare: [] | Top confidence: 0.5066 | Strategy: Normal
+[18:04:04] New prediction → Main: ['Bong', 'Phao'] | Rare: [] | Top confidence: 0.4459 | Strategy: Normal
+[18:04:36] [MISS] Consecutive misses: 1
+[18:04:36] New prediction → Main: ['Kem', 'Phao'] | Rare: [] | Top confidence: 0.432 | Strategy: Normal
+[18:05:09] [MISS] Consecutive misses: 2
+[18:05:09] New prediction → Main: ['Kem', 'Bong'] | Rare: [] | Top confidence: 0.4266 | Strategy: Normal
+[18:05:40] [MISS] Consecutive misses: 3
+[18:05:40] New prediction → Main: ['Bong', 'Phao'] | Rare: [] | Top confidence: 0.5026 | Strategy: Normal
+[18:06:11] New prediction → Main: ['Phao', 'Bong'] | Rare: [] | Top confidence: 0.416 | Strategy: Normal
+[18:06:45] New prediction → Main: ['Phao', 'Kem'] | Rare: [] | Top confidence: 0.4475 | Strategy: Normal
+[18:07:18] [MISS] Consecutive misses: 1
+[18:07:18] New prediction → Main: ['Dam', 'Phao'] | Rare: [] | Top confidence: 0.4342 | Strategy: Normal
+[18:07:48] New prediction → Main: ['Bong', 'Phao'] | Rare: [] | Top confidence: 0.4747 | Strategy: Normal
+[18:08:20] [MISS] Consecutive misses: 1
+[18:08:20] New prediction → Main: ['Bong', 'Phao'] | Rare: [] | Top confidence: 0.4738 | Strategy: Normal
+[18:08:52] [MISS] Consecutive misses: 2
+[18:08:52] New prediction → Main: ['Kem', 'Phao'] | Rare: [] | Top confidence: 0.4728 | Strategy: Normal
+[18:09:25] New prediction → Main: ['Phao', 'Dam'] | Rare: [] | Top confidence: 0.506 | Strategy: Normal
+[18:09:56] [MISS] Consecutive misses: 1
+[18:09:56] New prediction → Main: ['Kem', 'Phao'] | Rare: [] | Top confidence: 0.429 | Strategy: Normal
+[18:10:29] [MISS] Consecutive misses: 2
+[18:10:29] New prediction → Main: ['Dam', 'Phao'] | Rare: [] | Top confidence: 0.4873 | Strategy: Normal
+[18:11:00] [MISS] Consecutive misses: 3
+[18:11:00] New prediction → Main: ['Phao', 'Dam'] | Rare: [] | Top confidence: 0.4687 | Strategy: Normal
+[18:11:33] [MISS] Consecutive misses: 4
+[18:11:33] New prediction → Main: ['Kem', 'Phao'] | Rare: [] | Top confidence: 0.4871 | Strategy: Normal
+[18:12:04] New prediction → Main: ['Phao', 'Kem'] | Rare: [] | Top confidence: 0.4215 | Strategy: Normal
+[18:12:35] New prediction → Main: ['Dam', 'Phao'] | Rare: [] | Top confidence: 0.5378 | Strategy: Normal
+[18:13:09] [MISS] Consecutive misses: 1
+[18:13:09] New prediction → Main: ['Bong', 'Dam'] | Rare: [] | Top confidence: 0.483 | Strategy: Normal
+[18:13:42] [MISS] Consecutive misses: 2
+[18:13:42] New prediction → Main: ['Dam', 'Bong'] | Rare: [] | Top confidence: 0.4964 | Strategy: Normal
+[18:14:13] [MISS] Consecutive misses: 3
+[18:14:13] New prediction → Main: ['Dam', 'Bong'] | Rare: [] | Top confidence: 0.4497 | Strategy: Normal
+[18:14:45] New prediction → Main: ['Phao', 'Dam'] | Rare: [] | Top confidence: 0.443 | Strategy: Normal
+[18:15:18] [MISS] Consecutive misses: 1
+[18:15:18] New prediction → Main: ['Bong', 'Phao'] | Rare: [] | Top confidence: 0.4196 | Strategy: Normal
+[18:15:51] New prediction → Main: ['Bong', 'Dam'] | Rare: [] | Top confidence: 0.4661 | Strategy: Normal
+[18:16:20] New prediction → Main: ['Dam', 'Phao'] | Rare: [] | Top confidence: 0.3418 | Strategy: Normal
+[18:16:52] New prediction → Main: ['Bong', 'Phao'] | Rare: [] | Top confidence: 0.5125 | Strategy: Normal
+[18:17:24] [MISS] Consecutive misses: 1
+[18:17:24] New prediction → Main: ['Bong', 'Phao'] | Rare: [] | Top confidence: 0.5042 | Strategy: Normal
+[18:17:57] [MISS] Consecutive misses: 2
+[18:17:57] New prediction → Main: ['Bong', 'Phao'] | Rare: [] | Top confidence: 0.4232 | Strategy: Normal
+[18:18:29] New prediction → Main: ['Phao', 'Kem'] | Rare: [] | Top confidence: 0.4224 | Strategy: Normal
+[18:19:01] New prediction → Main: ['Phao', 'Bong'] | Rare: [] | Top confidence: 0.4111 | Strategy: Normal
+[18:19:33] New prediction → Main: ['Bong', 'Dam'] | Rare: [] | Top confidence: 0.4381 | Strategy: Normal
+[18:20:07] [MISS] Consecutive misses: 1
+[18:20:07] New prediction → Main: ['Dam', 'Phao'] | Rare: [] | Top confidence: 0.4382 | Strategy: Normal
+[18:20:36] New prediction → Main: ['Dam', 'Phao'] | Rare: [] | Top confidence: 0.4394 | Strategy: Normal
+[18:21:08] New prediction → Main: ['Dam', 'Phao'] | Rare: [] | Top confidence: 0.4958 | Strategy: Normal
+[18:21:40] [MISS] Consecutive misses: 1
+[18:21:40] New prediction → Main: ['Dam', 'Phao'] | Rare: [] | Top confidence: 0.4498 | Strategy: Normal
+[18:22:14] [MISS] Consecutive misses: 2
+[18:22:14] New prediction → Main: ['Phao', 'Dam'] | Rare: [] | Top confidence: 0.5007 | Strategy: Normal
+[18:22:46] New prediction → Main: ['Bong', 'Dam'] | Rare: [] | Top confidence: 0.4262 | Strategy: Normal
+[18:23:17] New prediction → Main: ['Bong', 'Phao'] | Rare: [] | Top confidence: 0.4494 | Strategy: Normal
+[18:23:49] New prediction → Main: ['Phao', 'Kem'] | Rare: [] | Top confidence: 0.4191 | Strategy: Normal
+[18:24:22] New prediction → Main: ['Phao', 'Kem'] | Rare: [] | Top confidence: 0.5542 | Strategy: Normal
+[18:24:54] [MISS] Consecutive misses: 1
+[18:24:54] New prediction → Main: ['Phao', 'Kem'] | Rare: [] | Top confidence: 0.4339 | Strategy: Normal
+[18:25:25] [MISS] Consecutive misses: 2
+[18:25:25] New prediction → Main: ['Phao', 'Bong'] | Rare: [] | Top confidence: 0.585 | Strategy: Normal
+[18:25:58] [MISS] Consecutive misses: 3
+[18:25:58] New prediction → Main: ['Dam', 'Kem'] | Rare: [] | Top confidence: 0.3873 | Strategy: Normal
+[18:26:31] [MISS] Consecutive misses: 4
+[18:26:31] New prediction → Main: ['Phao', 'Dam'] | Rare: [] | Top confidence: 0.4738 | Strategy: Normal
+[18:27:00] New prediction → Main: ['Phao', 'Dam'] | Rare: [] | Top confidence: 0.3864 | Strategy: Normal
+[18:27:31] New prediction → Main: ['Phao', 'Dam'] | Rare: [] | Top confidence: 0.5551 | Strategy: Normal
+[18:28:05] New prediction → Main: ['Phao', 'Kem'] | Rare: [] | Top confidence: 0.5048 | Strategy: Normal
+[18:28:38] [MISS] Consecutive misses: 1
+[18:28:38] New prediction → Main: ['Phao', 'Bong'] | Rare: [] | Top confidence: 0.4359 | Strategy: Normal
+[18:29:06] [MISS] Consecutive misses: 2
+[18:29:06] New prediction → Main: ['Phao', 'Bong'] | Rare: [] | Top confidence: 0.3912 | Strategy: Normal
+[18:29:39] New prediction → Main: ['Phao', 'Bong'] | Rare: [] | Top confidence: 0.4982 | Strategy: Normal
+[18:30:11] [MISS] Consecutive misses: 1
+[18:30:11] New prediction → Main: ['Phao', 'Bong'] | Rare: [] | Top confidence: 0.3901 | Strategy: Normal
+[18:30:46] [MISS] Consecutive misses: 2
+[18:30:46] New prediction → Main: ['Phao', 'Bong'] | Rare: [] | Top confidence: 0.5413 | Strategy: Normal
+[18:31:16] [MISS] Consecutive misses: 3
+[18:31:16] New prediction → Main: ['Phao', 'Kem'] | Rare: [] | Top confidence: 0.5193 | Strategy: Normal
+[18:31:49] [MISS] Consecutive misses: 4
+[18:31:49] New prediction → Main: ['Phao', 'Dam'] | Rare: [] | Top confidence: 0.4419 | Strategy: Normal
+[18:32:22] [MISS] Consecutive misses: 5
+[18:32:22] New prediction → Main: ['Dam', 'Bong'] | Rare: [] | Top confidence: 0.425 | Strategy: Normal
+[18:32:55] New prediction → Main: ['Phao', 'Bong'] | Rare: [] | Top confidence: 0.4442 | Strategy: Normal
+[18:33:23] New prediction → Main: ['Phao', 'Bong'] | Rare: [] | Top confidence: 0.5129 | Strategy: Normal
+[18:33:57] [MISS] Consecutive misses: 1
+[18:33:57] New prediction → Main: ['Phao', 'Kem'] | Rare: [] | Top confidence: 0.4285 | Strategy: Normal
+[18:34:27] [MISS] Consecutive misses: 2
+[18:34:27] New prediction → Main: ['Phao', 'Kem'] | Rare: [] | Top confidence: 0.4406 | Strategy: Normal
+[18:35:03] [MISS] Consecutive misses: 3
+[18:35:03] New prediction → Main: ['Phao', 'Bong'] | Rare: [] | Top confidence: 0.2514 | Strategy: Normal
+[18:35:33] New prediction → Main: ['Phao', 'Kem'] | Rare: [] | Top confidence: 0.4282 | Strategy: Normal
+[18:36:03] New prediction → Main: ['Phao', 'Bong'] | Rare: [] | Top confidence: 0.4288 | Strategy: Normal
+[18:36:37] [MISS] Consecutive misses: 1
+[18:36:37] New prediction → Main: ['Bong', 'Phao'] | Rare: [] | Top confidence: 0.4923 | Strategy: Normal
+[18:37:10] New prediction → Main: ['Kem', 'Bong'] | Rare: [] | Top confidence: 0.3298 | Strategy: Normal
+[18:37:40] [MISS] Consecutive misses: 1
+[18:37:40] New prediction → Main: ['Kem', 'Dam'] | Rare: [] | Top confidence: 0.3624 | Strategy: Normal
+[18:38:13] [MISS] Consecutive misses: 2
+[18:38:13] New prediction → Main: ['Phao', 'Dam'] | Rare: [] | Top confidence: 0.4607 | Strategy: Normal
+[18:38:44] New prediction → Main: ['Dam', 'Phao'] | Rare: [] | Top confidence: 0.3975 | Strategy: Normal
+[18:39:20] New prediction → Main: ['Phao', 'Bong'] | Rare: [] | Top confidence: 0.4557 | Strategy: Normal
+[18:39:48] New prediction → Main: ['Dam', 'Bong'] | Rare: [] | Top confidence: 0.4888 | Strategy: Normal
+[18:40:20] [MISS] Consecutive misses: 1
+[18:40:20] New prediction → Main: ['Phao', 'Bong'] | Rare: [] | Top confidence: 0.4127 | Strategy: Normal
+[18:40:52] [MISS] Consecutive misses: 2
+[18:40:52] New prediction → Main: ['Bong', 'Phao'] | Rare: [] | Top confidence: 0.4703 | Strategy: Normal
+[18:41:29] [MISS] Consecutive misses: 3
+[18:41:29] New prediction → Main: ['Phao', 'Bong'] | Rare: [] | Top confidence: 0.3528 | Strategy: Normal
+[18:41:57] [MISS] Consecutive misses: 4
+[18:41:57] New prediction → Main: ['Bong', 'Dam'] | Rare: [] | Top confidence: 0.4334 | Strategy: Normal
+[18:42:28] [MISS] Consecutive misses: 5
+[18:42:28] New prediction → Main: ['Bong', 'Phao'] | Rare: [] | Top confidence: 0.4995 | Strategy: Normal
+[18:43:02] New prediction → Main: ['Phao', 'Bong'] | Rare: [] | Top confidence: 0.5176 | Strategy: Normal
+[18:43:36] [MISS] Consecutive misses: 1
+[18:43:36] New prediction → Main: ['Phao', 'Dam'] | Rare: [] | Top confidence: 0.3237 | Strategy: Normal
+[18:44:05] [MISS] Consecutive misses: 2
+[18:44:05] New prediction → Main: ['Phao', 'Dam'] | Rare: [] | Top confidence: 0.5149 | Strategy: Normal
+[18:44:38] [MISS] Consecutive misses: 3
+[18:44:38] New prediction → Main: ['Dam', 'Kem'] | Rare: [] | Top confidence: 0.4084 | Strategy: Normal
+[18:45:09] [MISS] Consecutive misses: 4
+[18:45:09] New prediction → Main: ['Phao', 'Dam'] | Rare: [] | Top confidence: 0.4202 | Strategy: Normal
+[18:45:43] [MISS] Consecutive misses: 5
+[18:45:43] New prediction → Main: ['Dam', 'Phao'] | Rare: [] | Top confidence: 0.4346 | Strategy: Normal
+[18:46:12] New prediction → Main: ['Dam', 'Kem'] | Rare: [] | Top confidence: 0.5713 | Strategy: Normal
+[18:46:44] [MISS] Consecutive misses: 1
+[18:46:44] New prediction → Main: ['Phao', 'Dam'] | Rare: [] | Top confidence: 0.4376 | Strategy: Normal
+[18:47:16] New prediction → Main: ['Phao', 'Kem'] | Rare: [] | Top confidence: 0.4188 | Strategy: Normal
+[18:47:50] [MISS] Consecutive misses: 1
+[18:47:50] New prediction → Main: ['Phao', 'Bong'] | Rare: [] | Top confidence: 0.421 | Strategy: Normal
+[18:48:18] [MISS] Consecutive misses: 2
+[18:48:18] New prediction → Main: ['Phao', 'Kem'] | Rare: [] | Top confidence: 0.4216 | Strategy: Normal
+[18:48:53] [MISS] Consecutive misses: 3
+[18:48:53] New prediction → Main: ['Phao', 'Dam'] | Rare: [] | Top confidence: 0.5422 | Strategy: Normal
+[18:49:25] [MISS] Consecutive misses: 4
+[18:49:25] New prediction → Main: ['Phao', 'Dam'] | Rare: [] | Top confidence: 0.462 | Strategy: Normal
+[18:49:58] [MISS] Consecutive misses: 5
+[18:49:58] New prediction → Main: ['Phao', 'Dam'] | Rare: [] | Top confidence: 0.3691 | Strategy: Normal
+[18:50:27] [MISS] Consecutive misses: 6
+[18:50:27] New prediction → Main: ['Phao', 'Dam'] | Rare: [] | Top confidence: 0.3621 | Strategy: Normal
+[18:50:59] [MISS] Consecutive misses: 7
+[18:50:59] New prediction → Main: ['Phao', 'Dam'] | Rare: [] | Top confidence: 0.4921 | Strategy: Normal
+[18:51:31] [MISS] Consecutive misses: 8
+[18:51:31] New prediction → Main: ['Phao', 'Dam'] | Rare: [] | Top confidence: 0.5122 | Strategy: Normal
+[18:52:05] New prediction → Main: ['Bong', 'Phao'] | Rare: [] | Top confidence: 0.2411 | Strategy: Normal
+[18:52:38] New prediction → Main: ['Dam', 'Phao'] | Rare: [] | Top confidence: 0.4006 | Strategy: Normal
+[18:53:10] New prediction → Main: ['Dam', 'Phao'] | Rare: [] | Top confidence: 0.4156 | Strategy: Normal
+[18:53:41] [MISS] Consecutive misses: 1
+[18:53:41] New prediction → Main: ['Phao', 'Dam'] | Rare: [] | Top confidence: 0.4135 | Strategy: Normal
+[18:54:16] [MISS] Consecutive misses: 2
+[18:54:16] New prediction → Main: ['Phao', 'Dam'] | Rare: [] | Top confidence: 0.4387 | Strategy: Normal
+[18:54:43] [MISS] Consecutive misses: 3
+[18:54:43] New prediction → Main: ['Phao', 'Dam'] | Rare: [] | Top confidence: 0.4369 | Strategy: Normal
+[18:55:17] [MISS] Consecutive misses: 4
+[18:55:17] New prediction → Main: ['Phao', 'Dam'] | Rare: [] | Top confidence: 0.4276 | Strategy: Normal
+[18:55:49] New prediction → Main: ['Dam', 'Phao'] | Rare: [] | Top confidence: 0.4078 | Strategy: Normal
+[18:56:21] [MISS] Consecutive misses: 1
+[18:56:21] New prediction → Main: ['Phao', 'Bong'] | Rare: [] | Top confidence: 0.426 | Strategy: Normal
+[18:56:53] [MISS] Consecutive misses: 2
+[18:56:53] New prediction → Main: ['Dam', 'Phao'] | Rare: [] | Top confidence: 0.4792 | Strategy: Normal
+[18:57:26] New prediction → Main: ['Dam', 'Kem'] | Rare: [] | Top confidence: 0.5662 | Strategy: Normal
+[18:57:56] New prediction → Main: ['Phao', 'Dam'] | Rare: [] | Top confidence: 0.4559 | Strategy: Normal
+[18:58:30] New prediction → Main: ['Bong', 'Phao'] | Rare: [] | Top confidence: 0.4082 | Strategy: Normal
+[18:58:59] New prediction → Main: ['Phao', 'Dam'] | Rare: [] | Top confidence: 0.5192 | Strategy: Normal
+[18:59:32] New prediction → Main: ['Phao', 'Bong'] | Rare: [] | Top confidence: 0.5094 | Strategy: Normal
+[19:00:04] New prediction → Main: ['Phao', 'Bong'] | Rare: [] | Top confidence: 0.4112 | Strategy: Normal
+[19:00:39] New prediction → Main: ['Bong', 'Phao'] | Rare: [] | Top confidence: 0.4708 | Strategy: Normal
+[19:01:10] [MISS] Consecutive misses: 1
+[19:01:10] New prediction → Main: ['Phao', 'Kem'] | Rare: [] | Top confidence: 0.4113 | Strategy: Normal
+[19:01:40] [MISS] Consecutive misses: 2
+[19:01:40] New prediction → Main: ['Bong', 'Phao'] | Rare: [] | Top confidence: 0.3245 | Strategy: Normal
+[19:02:11] New prediction → Main: ['Phao', 'Kem'] | Rare: [] | Top confidence: 0.3959 | Strategy: Normal
+[19:02:48] [MISS] Consecutive misses: 1
+[19:02:48] New prediction → Main: ['Phao', 'Kem'] | Rare: [] | Top confidence: 0.435 | Strategy: Normal
+[19:03:16] New prediction → Main: ['Phao', 'Dam'] | Rare: [] | Top confidence: 0.3112 | Strategy: Normal
+[19:03:49] [MISS] Consecutive misses: 1
+[19:03:49] New prediction → Main: ['Dam', 'Phao'] | Rare: [] | Top confidence: 0.4476 | Strategy: Normal
+[19:04:20] [MISS] Consecutive misses: 2
+[19:04:20] New prediction → Main: ['Bong', 'Phao'] | Rare: [] | Top confidence: 0.4389 | Strategy: Normal
+[19:04:53] [MISS] Consecutive misses: 3
+[19:04:53] New prediction → Main: ['Dam', 'Phao'] | Rare: [] | Top confidence: 0.4045 | Strategy: Normal
+[19:05:25] New prediction → Main: ['Bong', 'Phao'] | Rare: [] | Top confidence: 0.3795 | Strategy: Normal
+[19:05:56] New prediction → Main: ['Phao', 'Dam'] | Rare: [] | Top confidence: 0.3291 | Strategy: Normal
+[19:06:28] [MISS] Consecutive misses: 1
+[19:06:28] New prediction → Main: ['Kem', 'Dam'] | Rare: [] | Top confidence: 0.4276 | Strategy: Normal
+[19:07:04] [MISS] Consecutive misses: 2
+[19:07:04] New prediction → Main: ['Phao', 'Dam'] | Rare: [] | Top confidence: 0.4402 | Strategy: Normal
+[19:07:32] [MISS] Consecutive misses: 3
+[19:07:32] New prediction → Main: ['Phao', 'Dam'] | Rare: [] | Top confidence: 0.4121 | Strategy: Normal
+[19:08:04] New prediction → Main: ['Phao', 'Bong'] | Rare: [] | Top confidence: 0.3317 | Strategy: Normal
+[19:08:38] New prediction → Main: ['Phao', 'Dam'] | Rare: [] | Top confidence: 0.4164 | Strategy: Normal
+[19:09:11] New prediction → Main: ['Bong', 'Phao'] | Rare: [] | Top confidence: 0.5126 | Strategy: Normal
+[19:09:42] New prediction → Main: ['Phao', 'Bong'] | Rare: [] | Top confidence: 0.4766 | Strategy: Normal
+[19:10:13] New prediction → Main: ['Phao', 'Bong'] | Rare: [] | Top confidence: 0.4827 | Strategy: Normal
+[19:10:44] [MISS] Consecutive misses: 1
+[19:10:44] New prediction → Main: ['Bong', 'Phao'] | Rare: [] | Top confidence: 0.4582 | Strategy: Normal
+[19:11:20] New prediction → Main: ['Bong', 'Phao'] | Rare: [] | Top confidence: 0.362 | Strategy: Normal
+[19:11:49] [MISS] Consecutive misses: 1
+[19:11:49] New prediction → Main: ['Kem', 'Phao'] | Rare: [] | Top confidence: 0.456 | Strategy: Normal
+[19:12:21] [MISS] Consecutive misses: 2
+[19:12:21] New prediction → Main: ['Bong', 'Kem'] | Rare: [] | Top confidence: 0.4556 | Strategy: Normal
+[19:12:51] [MISS] Consecutive misses: 3
+[19:12:51] New prediction → Main: ['Phao', 'Dam'] | Rare: [] | Top confidence: 0.4577 | Strategy: Normal
+[19:13:29] [MISS] Consecutive misses: 4
+[19:13:29] New prediction → Main: ['Bong', 'Phao'] | Rare: [] | Top confidence: 0.4342 | Strategy: Normal
+[19:13:57] [MISS] Consecutive misses: 5
+[19:13:57] New prediction → Main: ['Phao', 'Kem'] | Rare: [] | Top confidence: 0.4008 | Strategy: Normal
+[19:14:30] [MISS] Consecutive misses: 6
+[19:14:30] New prediction → Main: ['Phao', 'Bong'] | Rare: [] | Top confidence: 0.3811 | Strategy: Normal
+[19:15:02] New prediction → Main: ['Bong', 'Kem'] | Rare: [] | Top confidence: 0.4482 | Strategy: Normal
+[19:15:34] New prediction → Main: ['Phao', 'Kem'] | Rare: [] | Top confidence: 0.3842 | Strategy: Normal
+[19:16:07] [MISS] Consecutive misses: 1
+[19:16:07] New prediction → Main: ['Phao', 'Bong'] | Rare: [] | Top confidence: 0.4368 | Strategy: Normal
+[19:16:35] New prediction → Main: ['Phao', 'Bong'] | Rare: [] | Top confidence: 0.3772 | Strategy: Normal
+[19:17:09] New prediction → Main: ['Bong', 'Phao'] | Rare: [] | Top confidence: 0.4507 | Strategy: Normal
+[19:17:43] [MISS] Consecutive misses: 1
+[19:17:43] New prediction → Main: ['Phao', 'Dam'] | Rare: [] | Top confidence: 0.3696 | Strategy: Normal
+[19:18:13] [MISS] Consecutive misses: 2
+[19:18:13] New prediction → Main: ['Phao', 'Bong'] | Rare: [] | Top confidence: 0.4729 | Strategy: Normal
+[19:18:43] [MISS] Consecutive misses: 3
+[19:18:43] New prediction → Main: ['Bong', 'Phao'] | Rare: [] | Top confidence: 0.4678 | Strategy: Normal
+[19:19:15] [MISS] Consecutive misses: 4
+[19:19:15] New prediction → Main: ['Phao', 'Bong'] | Rare: [] | Top confidence: 0.3934 | Strategy: Normal
+[19:19:50] [MISS] Consecutive misses: 5
+[19:19:50] New prediction → Main: ['Phao', 'Dam'] | Rare: [] | Top confidence: 0.4001 | Strategy: Normal
+[19:20:22] [MISS] Consecutive misses: 6
+[19:20:22] New prediction → Main: ['Kem', 'Phao'] | Rare: [] | Top confidence: 0.4196 | Strategy: Normal
+[19:20:52] New prediction → Main: ['Phao', 'Kem'] | Rare: [] | Top confidence: 0.4288 | Strategy: Normal
+[19:21:24] New prediction → Main: ['Phao', 'Bong'] | Rare: [] | Top confidence: 0.3815 | Strategy: Normal
+[19:21:58] [MISS] Consecutive misses: 1
+[19:21:58] New prediction → Main: ['Dam', 'Phao'] | Rare: [] | Top confidence: 0.4506 | Strategy: Normal
+[19:22:28] New prediction → Main: ['Bong', 'Dam'] | Rare: [] | Top confidence: 0.4797 | Strategy: Normal
+[19:23:01] [MISS] Consecutive misses: 1
+[19:23:01] New prediction → Main: ['Phao', 'Bong'] | Rare: [] | Top confidence: 0.3525 | Strategy: Normal
+[19:23:33] [MISS] Consecutive misses: 2
+[19:23:33] New prediction → Main: ['Phao', 'Bong'] | Rare: [] | Top confidence: 0.519 | Strategy: Normal
+[19:24:06] [MISS] Consecutive misses: 3
+[19:24:06] New prediction → Main: ['Phao', 'Dam'] | Rare: [] | Top confidence: 0.4761 | Strategy: Normal
+[19:24:35] New prediction → Main: ['Phao', 'Bong'] | Rare: [] | Top confidence: 0.3051 | Strategy: Normal
+[19:25:08] New prediction → Main: ['Phao', 'Dam'] | Rare: [] | Top confidence: 0.4113 | Strategy: Normal
+[19:25:40] [MISS] Consecutive misses: 1
+[19:25:40] New prediction → Main: ['Bong', 'Phao'] | Rare: [] | Top confidence: 0.3936 | Strategy: Normal
+[19:26:14] New prediction → Main: ['Phao', 'Dam'] | Rare: [] | Top confidence: 0.3235 | Strategy: Normal
+[19:26:43] [MISS] Consecutive misses: 1
+[19:26:43] New prediction → Main: ['Bong', 'Phao'] | Rare: [] | Top confidence: 0.421 | Strategy: Normal
+[19:27:17] New prediction → Main: ['Phao', 'Dam'] | Rare: [] | Top confidence: 0.384 | Strategy: Normal
+[19:27:49] New prediction → Main: ['Bong', 'Phao'] | Rare: [] | Top confidence: 0.4305 | Strategy: Normal
+[19:28:24] [MISS] Consecutive misses: 1
+[19:28:24] New prediction → Main: ['Phao', 'Bong'] | Rare: [] | Top confidence: 0.4696 | Strategy: Normal
+[19:28:53] New prediction → Main: ['Phao', 'Kem'] | Rare: [] | Top confidence: 0.4094 | Strategy: Normal
+[19:29:26] [MISS] Consecutive misses: 1
+[19:29:26] New prediction → Main: ['Bong', 'Phao'] | Rare: [] | Top confidence: 0.4479 | Strategy: Normal
+[19:29:55] [MISS] Consecutive misses: 2
+[19:29:55] New prediction → Main: ['Phao', 'Bong'] | Rare: [] | Top confidence: 0.4676 | Strategy: Normal
+[19:30:32] [MISS] Consecutive misses: 3
+[19:30:32] New prediction → Main: ['Bong', 'Phao'] | Rare: [] | Top confidence: 0.3146 | Strategy: Normal
+[19:31:00] New prediction → Main: ['Dam', 'Bong'] | Rare: [] | Top confidence: 0.3497 | Strategy: Normal
+[19:31:32] [MISS] Consecutive misses: 1
+[19:31:32] New prediction → Main: ['Bong', 'Phao'] | Rare: [] | Top confidence: 0.2408 | Strategy: Normal
+[19:32:05] [MISS] Consecutive misses: 2
+[19:32:05] New prediction → Main: ['Bong', 'Phao'] | Rare: [] | Top confidence: 0.3274 | Strategy: Normal
+[19:32:39] New prediction → Main: ['Phao', 'Bong'] | Rare: [] | Top confidence: 0.3851 | Strategy: Normal
+[19:33:07] [MISS] Consecutive misses: 1
+[19:33:07] New prediction → Main: ['Bong', 'Phao'] | Rare: [] | Top confidence: 0.457 | Strategy: Normal
+[19:33:43] [MISS] Consecutive misses: 2
+[19:33:43] New prediction → Main: ['Bong', 'Phao'] | Rare: [] | Top confidence: 0.3871 | Strategy: Normal
+[19:34:12] New prediction → Main: ['Phao', 'Bong'] | Rare: [] | Top confidence: 0.5241 | Strategy: Normal
+[19:34:46] New prediction → Main: ['Phao', 'Dam'] | Rare: [] | Top confidence: 0.4973 | Strategy: Normal
+[19:35:16] [MISS] Consecutive misses: 1
+[19:35:16] New prediction → Main: ['Phao', 'Dam'] | Rare: [] | Top confidence: 0.4585 | Strategy: Normal
+[19:35:50] [MISS] Consecutive misses: 2
+[19:35:50] New prediction → Main: ['Phao', 'Dam'] | Rare: [] | Top confidence: 0.4042 | Strategy: Normal
+[19:36:20] [MISS] Consecutive misses: 3
+[19:36:20] New prediction → Main: ['Phao', 'Dam'] | Rare: [] | Top confidence: 0.4852 | Strategy: Normal
+[19:36:55] [MISS] Consecutive misses: 4
+[19:36:55] New prediction → Main: ['Dam', 'Phao'] | Rare: [] | Top confidence: 0.3809 | Strategy: Normal
+[19:37:26] [MISS] Consecutive misses: 5
+[19:37:26] New prediction → Main: ['Phao', 'Dam'] | Rare: [] | Top confidence: 0.4977 | Strategy: Normal
+[19:37:57] New prediction → Main: ['Phao', 'Dam'] | Rare: [] | Top confidence: 0.493 | Strategy: Normal
+[19:38:27] [MISS] Consecutive misses: 1
+[19:38:27] New prediction → Main: ['Bong', 'Dam'] | Rare: [] | Top confidence: 0.3 | Strategy: Normal
+[19:39:03] New prediction → Main: ['Phao', 'Dam'] | Rare: [] | Top confidence: 0.4043 | Strategy: Normal
+[19:39:33] New prediction → Main: ['Phao', 'Dam'] | Rare: [] | Top confidence: 0.3785 | Strategy: Normal
+[19:40:04] New prediction → Main: ['Phao', 'Dam'] | Rare: [] | Top confidence: 0.3487 | Strategy: Normal
+[19:40:37] [MISS] Consecutive misses: 1
+[19:40:37] New prediction → Main: ['Bong', 'Dam'] | Rare: [] | Top confidence: 0.3297 | Strategy: Normal
+[19:41:12] [MISS] Consecutive misses: 2
+[19:41:12] New prediction → Main: ['Phao', 'Bong'] | Rare: [] | Top confidence: 0.3471 | Strategy: Normal
+[19:41:40] New prediction → Main: ['Phao', 'Bong'] | Rare: [] | Top confidence: 0.5159 | Strategy: Normal
+[19:42:13] [MISS] Consecutive misses: 1
+[19:42:13] New prediction → Main: ['Phao', 'Bong'] | Rare: [] | Top confidence: 0.3997 | Strategy: Normal
+[19:42:46] New prediction → Main: ['Phao', 'Dam'] | Rare: [] | Top confidence: 0.4228 | Strategy: Normal
+[19:43:20] [MISS] Consecutive misses: 1
+[19:43:20] New prediction → Main: ['Bong', 'Dam'] | Rare: [] | Top confidence: 0.4568 | Strategy: Normal
+[19:43:47] [MISS] Consecutive misses: 2
+[19:43:47] New prediction → Main: ['Phao', 'Dam'] | Rare: [] | Top confidence: 0.3852 | Strategy: Normal
+[19:44:22] New prediction → Main: ['Bong', 'Phao'] | Rare: [] | Top confidence: 0.3578 | Strategy: Normal
+[19:44:53] New prediction → Main: ['Phao', 'Bong'] | Rare: [] | Top confidence: 0.3831 | Strategy: Normal
+[19:45:28] [MISS] Consecutive misses: 1
+[19:45:28] New prediction → Main: ['Phao', 'Bong'] | Rare: [] | Top confidence: 0.4374 | Strategy: Normal
+[19:45:59] [MISS] Consecutive misses: 2
+[19:45:59] New prediction → Main: ['Dam', 'Bong'] | Rare: [] | Top confidence: 0.3043 | Strategy: Normal
+[19:46:29] New prediction → Main: ['Phao', 'Bong'] | Rare: [] | Top confidence: 0.4107 | Strategy: Normal
+[19:47:02] New prediction → Main: ['Phao', 'Dam'] | Rare: [] | Top confidence: 0.3891 | Strategy: Normal
+[19:47:35] [MISS] Consecutive misses: 1
+[19:47:35] New prediction → Main: ['Bong', 'Phao'] | Rare: [] | Top confidence: 0.4144 | Strategy: Normal
+[19:48:05] New prediction → Main: ['Phao', 'Dam'] | Rare: [] | Top confidence: 0.4645 | Strategy: Normal
+[19:48:35] [MISS] Consecutive misses: 1
+[19:48:35] New prediction → Main: ['Phao', 'Dam'] | Rare: [] | Top confidence: 0.3312 | Strategy: Normal
+[19:49:09] New prediction → Main: ['Phao', 'Bong'] | Rare: [] | Top confidence: 0.2578 | Strategy: Normal
+[19:49:43] [MISS] Consecutive misses: 1
+[19:49:43] New prediction → Main: ['Phao', 'Dam'] | Rare: [] | Top confidence: 0.2928 | Strategy: Normal
+[19:50:14] New prediction → Main: ['Phao', 'Dam'] | Rare: [] | Top confidence: 0.3528 | Strategy: Normal
+[19:50:45] [MISS] Consecutive misses: 1
+[19:50:45] New prediction → Main: ['Phao', 'Bong'] | Rare: [] | Top confidence: 0.4863 | Strategy: Normal
+[19:51:18] [MISS] Consecutive misses: 2
+[19:51:18] New prediction → Main: ['Bong', 'Phao'] | Rare: [] | Top confidence: 0.4498 | Strategy: Normal
+[19:51:51] [MISS] Consecutive misses: 3
+[19:51:51] New prediction → Main: ['Phao', 'Bong'] | Rare: [] | Top confidence: 0.3423 | Strategy: Normal
+[19:52:22] [MISS] Consecutive misses: 4
+[19:52:22] New prediction → Main: ['Bong', 'Phao'] | Rare: [] | Top confidence: 0.402 | Strategy: Normal
+[19:52:52] New prediction → Main: ['Phao', 'Kem'] | Rare: [] | Top confidence: 0.3124 | Strategy: Normal
+[19:53:27] [MISS] Consecutive misses: 1
+[19:53:27] New prediction → Main: ['Phao', 'Kem'] | Rare: [] | Top confidence: 0.2835 | Strategy: Normal
+[19:53:59] [MISS] Consecutive misses: 2
+[19:53:59] New prediction → Main: ['Bong', 'Phao'] | Rare: [] | Top confidence: 0.3932 | Strategy: Normal
+[19:54:31] [MISS] Consecutive misses: 3
+[19:54:31] New prediction → Main: ['Phao', 'Kem'] | Rare: [] | Top confidence: 0.5011 | Strategy: Normal
+[19:55:01] [MISS] Consecutive misses: 4
+[19:55:01] New prediction → Main: ['Bong', 'Phao'] | Rare: [] | Top confidence: 0.3636 | Strategy: Normal
+[19:55:33] [MISS] Consecutive misses: 5
+[19:55:33] New prediction → Main: ['Phao', 'Kem'] | Rare: [] | Top confidence: 0.3821 | Strategy: Normal
+[19:56:05] New prediction → Main: ['Bong', 'Phao'] | Rare: [] | Top confidence: 0.4196 | Strategy: Normal
+[19:56:38] New prediction → Main: ['Bong', 'Phao'] | Rare: [] | Top confidence: 0.343 | Strategy: Normal
+[19:57:07] New prediction → Main: ['Phao', 'Dam'] | Rare: [] | Top confidence: 0.427 | Strategy: Normal
+[19:57:40] [MISS] Consecutive misses: 1
+[19:57:40] New prediction → Main: ['Dam', 'Phao'] | Rare: [] | Top confidence: 0.4683 | Strategy: Normal
+[19:58:14] [MISS] Consecutive misses: 2
+[19:58:14] New prediction → Main: ['Bong', 'Phao'] | Rare: [] | Top confidence: 0.3675 | Strategy: Normal
+[19:58:45] New prediction → Main: ['Phao', 'Kem'] | Rare: [] | Top confidence: 0.4167 | Strategy: Normal
+[19:59:17] New prediction → Main: ['Bong', 'Phao'] | Rare: [] | Top confidence: 0.2486 | Strategy: Normal
+[19:59:47] [MISS] Consecutive misses: 1
+[19:59:47] New prediction → Main: ['Bong', 'Dam'] | Rare: [] | Top confidence: 0.4314 | Strategy: Normal
+[20:00:21] [MISS] Consecutive misses: 2
+[20:00:21] New prediction → Main: ['Phao', 'Dam'] | Rare: [] | Top confidence: 0.3874 | Strategy: Normal
+[20:00:54] [MISS] Consecutive misses: 3
+[20:00:54] New prediction → Main: ['Dam', 'Bong'] | Rare: [] | Top confidence: 0.4295 | Strategy: Normal
+[20:01:24] New prediction → Main: ['Dam', 'Phao'] | Rare: [] | Top confidence: 0.3728 | Strategy: Normal
+[20:01:56] [MISS] Consecutive misses: 1
+[20:01:56] New prediction → Main: ['Phao', 'Dam'] | Rare: [] | Top confidence: 0.3957 | Strategy: Normal
+[20:02:31] New prediction → Main: ['Phao', 'Dam'] | Rare: [] | Top confidence: 0.3665 | Strategy: Normal
+[20:03:02] [MISS] Consecutive misses: 1
+[20:03:02] New prediction → Main: ['Phao', 'Bong'] | Rare: [] | Top confidence: 0.4031 | Strategy: Normal
+[20:03:31] [MISS] Consecutive misses: 2
+[20:03:31] New prediction → Main: ['Phao', 'Bong'] | Rare: [] | Top confidence: 0.3883 | Strategy: Normal
+[20:04:05] [MISS] Consecutive misses: 3
+[20:04:05] New prediction → Main: ['Phao', 'Bong'] | Rare: [] | Top confidence: 0.4618 | Strategy: Normal
+[20:04:39] [MISS] Consecutive misses: 4
+[20:04:39] New prediction → Main: ['Phao', 'Dam'] | Rare: [] | Top confidence: 0.3414 | Strategy: Normal
+[20:05:09] [MISS] Consecutive misses: 5
+[20:05:09] New prediction → Main: ['Phao', 'Bong'] | Rare: [] | Top confidence: 0.3892 | Strategy: Normal
+[20:05:40] [MISS] Consecutive misses: 6
+[20:05:40] New prediction → Main: ['Phao', 'Bong'] | Rare: [] | Top confidence: 0.3615 | Strategy: Normal
+[20:06:11] [MISS] Consecutive misses: 7
+[20:06:11] New prediction → Main: ['Kem', 'Bong'] | Rare: [] | Top confidence: 0.2855 | Strategy: Normal
+[20:06:47] New prediction → Main: ['Bong', 'Phao'] | Rare: [] | Top confidence: 0.2635 | Strategy: Normal
+[20:07:16] [MISS] Consecutive misses: 1
+[20:07:16] New prediction → Main: ['Bong', 'Phao'] | Rare: [] | Top confidence: 0.4562 | Strategy: Normal
+[20:07:49] [MISS] Consecutive misses: 2
+[20:07:49] New prediction → Main: ['Phao', 'Bong'] | Rare: [] | Top confidence: 0.3658 | Strategy: Normal
+[20:08:23] [MISS] Consecutive misses: 3
+[20:08:23] New prediction → Main: ['Phao', 'Bong'] | Rare: [] | Top confidence: 0.4071 | Strategy: Normal
+[20:08:54] New prediction → Main: ['Bong', 'Phao'] | Rare: [] | Top confidence: 0.3891 | Strategy: Normal
+[20:09:24] New prediction → Main: ['Phao', 'Dam'] | Rare: [] | Top confidence: 0.3621 | Strategy: Normal
+[20:09:55] [MISS] Consecutive misses: 1
+[20:09:55] New prediction → Main: ['Phao', 'Dam'] | Rare: [] | Top confidence: 0.4816 | Strategy: Normal
+[20:10:28] New prediction → Main: ['Bong', 'Kem'] | Rare: [] | Top confidence: 0.4258 | Strategy: Normal
+[20:11:03] [MISS] Consecutive misses: 1
+[20:11:03] New prediction → Main: ['Phao', 'Kem'] | Rare: [] | Top confidence: 0.4525 | Strategy: Normal
+[20:11:32] New prediction → Main: ['Bong', 'Kem'] | Rare: [] | Top confidence: 0.4125 | Strategy: Normal
+[20:12:05] [MISS] Consecutive misses: 1
+[20:12:05] New prediction → Main: ['Phao', 'Bong'] | Rare: [] | Top confidence: 0.4589 | Strategy: Normal
+[20:12:37] [MISS] Consecutive misses: 2
+[20:12:37] New prediction → Main: ['Phao', 'Bong'] | Rare: [] | Top confidence: 0.3481 | Strategy: Normal
+[20:13:12] [MISS] Consecutive misses: 3
+[20:13:12] New prediction → Main: ['Bong', 'Phao'] | Rare: [] | Top confidence: 0.4696 | Strategy: Normal
+[20:13:42] [MISS] Consecutive misses: 4
+[20:13:42] New prediction → Main: ['Phao', 'Bong'] | Rare: [] | Top confidence: 0.3671 | Strategy: Normal
+[20:14:12] [MISS] Consecutive misses: 5
+[20:14:12] New prediction → Main: ['Bong', 'Phao'] | Rare: [] | Top confidence: 0.4182 | Strategy: Normal
+[20:14:44] New prediction → Main: ['Bong', 'Phao'] | Rare: [] | Top confidence: 0.4155 | Strategy: Normal
+[20:15:19] New prediction → Main: ['Phao', 'Bong'] | Rare: [] | Top confidence: 0.4217 | Strategy: Normal
+[20:15:48] New prediction → Main: ['Bong', 'Phao'] | Rare: [] | Top confidence: 0.367 | Strategy: Normal
+[20:16:20] New prediction → Main: ['Phao', 'Bong'] | Rare: [] | Top confidence: 0.3016 | Strategy: Normal
+[20:16:53] New prediction → Main: ['Phao', 'Dam'] | Rare: [] | Top confidence: 0.4264 | Strategy: Normal
+[20:17:28] [MISS] Consecutive misses: 1
+[20:17:28] New prediction → Main: ['Phao', 'Kem'] | Rare: [] | Top confidence: 0.4164 | Strategy: Normal
+[20:17:57] New prediction → Main: ['Phao', 'Dam'] | Rare: [] | Top confidence: 0.3862 | Strategy: Normal
+[20:18:28] [MISS] Consecutive misses: 1
+[20:18:28] New prediction → Main: ['Kem', 'Dam'] | Rare: [] | Top confidence: 0.3594 | Strategy: Normal
+[20:19:02] [MISS] Consecutive misses: 2
+[20:19:02] New prediction → Main: ['Dam', 'Phao'] | Rare: [] | Top confidence: 0.3984 | Strategy: Normal
+[20:19:35] New prediction → Main: ['Phao', 'Dam'] | Rare: [] | Top confidence: 0.4513 | Strategy: Normal
+[20:20:05] New prediction → Main: ['Bong', 'Phao'] | Rare: [] | Top confidence: 0.4448 | Strategy: Normal
+[20:20:38] [MISS] Consecutive misses: 1
+[20:20:38] New prediction → Main: ['Phao', 'Bong'] | Rare: [] | Top confidence: 0.3144 | Strategy: Normal
+[20:21:08] New prediction → Main: ['Bong', 'Phao'] | Rare: [] | Top confidence: 0.457 | Strategy: Normal
+[20:21:42] [MISS] Consecutive misses: 1
+[20:21:42] New prediction → Main: ['Phao', 'Bong'] | Rare: [] | Top confidence: 0.369 | Strategy: Normal
+[20:22:15] [MISS] Consecutive misses: 2
+[20:22:15] New prediction → Main: ['Kem', 'Phao'] | Rare: [] | Top confidence: 0.3715 | Strategy: Normal
+[20:22:46] [MISS] Consecutive misses: 3
+[20:22:46] New prediction → Main: ['Phao', 'Bong'] | Rare: [] | Top confidence: 0.3654 | Strategy: Normal
+[20:23:15] [MISS] Consecutive misses: 4
+[20:23:15] New prediction → Main: ['Dam', 'Phao'] | Rare: [] | Top confidence: 0.3917 | Strategy: Normal
+[20:23:50] New prediction → Main: ['Phao', 'Bong'] | Rare: [] | Top confidence: 0.2961 | Strategy: Normal
+[20:24:19] New prediction → Main: ['Dam', 'Bong'] | Rare: [] | Top confidence: 0.3637 | Strategy: Normal
+[20:24:53] New prediction → Main: ['Dam', 'Bong'] | Rare: [] | Top confidence: 0.399 | Strategy: Normal
+[20:25:25] [MISS] Consecutive misses: 1
+[20:25:25] New prediction → Main: ['Bong', 'Dam'] | Rare: [] | Top confidence: 0.3589 | Strategy: Normal
+[20:25:58] New prediction → Main: ['Bong', 'Phao'] | Rare: [] | Top confidence: 0.3539 | Strategy: Normal
+[20:26:30] New prediction → Main: ['Phao', 'Kem'] | Rare: [] | Top confidence: 0.3218 | Strategy: Normal
+[20:27:01] [MISS] Consecutive misses: 1
+[20:27:01] New prediction → Main: ['Phao', 'Kem'] | Rare: [] | Top confidence: 0.3665 | Strategy: Normal
+[20:27:32] [MISS] Consecutive misses: 2
+[20:27:32] New prediction → Main: ['Dam', 'Phao'] | Rare: [] | Top confidence: 0.3527 | Strategy: Normal
+[20:28:07] New prediction → Main: ['Phao', 'Kem'] | Rare: [] | Top confidence: 0.3799 | Strategy: Normal
+[20:28:36] New prediction → Main: ['Phao', 'Bong'] | Rare: [] | Top confidence: 0.2795 | Strategy: Normal
+[20:29:08] [MISS] Consecutive misses: 1
+[20:29:08] New prediction → Main: ['Bong', 'Phao'] | Rare: [] | Top confidence: 0.2741 | Strategy: Normal
+[20:29:39] [MISS] Consecutive misses: 2
+[20:29:39] New prediction → Main: ['Bong', 'Phao'] | Rare: [] | Top confidence: 0.3722 | Strategy: Normal
+[20:30:14] [MISS] Consecutive misses: 3
+[20:30:14] New prediction → Main: ['Bong', 'Phao'] | Rare: [] | Top confidence: 0.4467 | Strategy: Normal
+[20:30:43] [MISS] Consecutive misses: 4
+[20:30:43] New prediction → Main: ['Bong', 'Phao'] | Rare: [] | Top confidence: 0.3561 | Strategy: Normal
+[20:31:17] [MISS] Consecutive misses: 5
+[20:31:17] New prediction → Main: ['Phao', 'Bong'] | Rare: [] | Top confidence: 0.3265 | Strategy: Normal
+[20:31:49] [MISS] Consecutive misses: 6
+[20:31:49] New prediction → Main: ['Bong', 'Phao'] | Rare: [] | Top confidence: 0.2141 | Strategy: Normal
+[20:32:21] New prediction → Main: ['Phao', 'Dam'] | Rare: [] | Top confidence: 0.2905 | Strategy: Normal
+[20:32:52] New prediction → Main: ['Phao', 'Dam'] | Rare: [] | Top confidence: 0.379 | Strategy: Normal
+[20:33:24] New prediction → Main: ['Bong', 'Phao'] | Rare: [] | Top confidence: 0.2789 | Strategy: Normal
+[20:59:16] ✅ System Ready.
+[20:59:35] New prediction → Main: ['Kem', 'Phao'] | Rare: [] | Top confidence: 0.125 | Strategy: Normal
+[21:00:37] New prediction → Main: ['Dam', 'Kem'] | Rare: [] | Top confidence: 0.3438 | Strategy: Normal
+[21:01:43] New prediction → Main: ['Bong', 'Dam'] | Rare: [] | Top confidence: 0.2188 | Strategy: Normal
+[21:02:12] New prediction → Main: ['Dam', 'Bong'] | Rare: [] | Top confidence: 0.2604 | Strategy: Normal
+[21:02:43] [MISS] Consecutive misses: 1
+[21:02:43] New prediction → Main: ['Dam', 'Bong'] | Rare: [] | Top confidence: 0.2163 | Strategy: Normal
+[21:03:17] [MISS] Consecutive misses: 2
+[21:03:17] New prediction → Main: ['Dam', 'Kem'] | Rare: [] | Top confidence: 0.27 | Strategy: Normal
+[21:03:51] [MISS] Consecutive misses: 3
+[21:03:51] New prediction → Main: ['Dam', 'Phao'] | Rare: [] | Top confidence: 0.4712 | Strategy: Normal
+[21:04:20] [MISS] Consecutive misses: 4
+[21:04:20] New prediction → Main: ['Dam', 'Bong'] | Rare: [] | Top confidence: 0.4857 | Strategy: Normal
+[21:04:52] [MISS] Consecutive misses: 5
+[21:04:53] New prediction → Main: ['Kem', 'Dam'] | Rare: [] | Top confidence: 0.4231 | Strategy: Normal
+[21:05:25] New prediction → Main: ['Dam', 'Kem'] | Rare: [] | Top confidence: 0.4872 | Strategy: Normal
+[21:05:57] New prediction → Main: ['Dam', 'Kem'] | Rare: [] | Top confidence: 0.6789 | Strategy: Normal
+[21:06:29] New prediction → Main: ['Kem', 'Phao'] | Rare: [] | Top confidence: 0.44 | Strategy: Normal
+[21:07:01] New prediction → Main: ['Phao', 'Kem'] | Rare: [] | Top confidence: 0.441 | Strategy: Normal
+[21:07:33] [MISS] Consecutive misses: 1
+[21:07:33] New prediction → Main: ['Phao', 'Kem'] | Rare: [] | Top confidence: 0.44 | Strategy: Normal
+[21:08:07] New prediction → Main: ['Kem', 'Dam'] | Rare: [] | Top confidence: 0.44 | Strategy: Normal
+[21:08:38] [MISS] Consecutive misses: 1
+[21:08:38] New prediction → Main: ['Kem', 'Dam'] | Rare: [] | Top confidence: 0.6667 | Strategy: Normal
+[21:09:09] [MISS] Consecutive misses: 2
+[21:09:09] New prediction → Main: ['Dam', 'Kem'] | Rare: [] | Top confidence: 0.4125 | Strategy: Normal
+[21:09:39] New prediction → Main: ['Kem', 'Dam'] | Rare: [] | Top confidence: 0.44 | Strategy: Normal
+[21:10:15] New prediction → Main: ['Kem', 'Dam'] | Rare: [] | Top confidence: 0.4222 | Strategy: Normal
+[21:10:45] New prediction → Main: ['Bong', 'Dam'] | Rare: [] | Top confidence: 0.4433 | Strategy: Normal
+[21:11:17] [MISS] Consecutive misses: 1
+[21:11:17] New prediction → Main: ['Bong', 'Phao'] | Rare: [] | Top confidence: 0.4648 | Strategy: Normal
+[21:11:47] New prediction → Main: ['Dam', 'Kem'] | Rare: [] | Top confidence: 0.4476 | Strategy: Normal
+[21:12:21] New prediction → Main: ['Kem', 'Bong'] | Rare: [] | Top confidence: 0.6636 | Strategy: Normal
+[21:12:51] [MISS] Consecutive misses: 1
+[21:12:51] New prediction → Main: ['Phao', 'Kem'] | Rare: [] | Top confidence: 0.4398 | Strategy: Normal
+[21:13:24] [MISS] Consecutive misses: 2
+[21:13:24] New prediction → Main: ['Kem', 'Phao'] | Rare: [] | Top confidence: 0.4231 | Strategy: Normal
+[21:13:56] [MISS] Consecutive misses: 3
+[21:13:56] New prediction → Main: ['Dam', 'Kem'] | Rare: [] | Top confidence: 0.6477 | Strategy: Normal
+[21:14:31] New prediction → Main: ['Phao', 'Kem'] | Rare: [] | Top confidence: 0.44 | Strategy: Normal
+[21:15:00] New prediction → Main: ['Dam', 'Kem'] | Rare: [] | Top confidence: 0.44 | Strategy: Normal
+[21:15:32] New prediction → Main: ['Dam', 'Kem'] | Rare: [] | Top confidence: 0.45 | Strategy: Normal
+[21:16:04] [MISS] Consecutive misses: 1
+[21:16:04] New prediction → Main: ['Dam', 'Phao'] | Rare: [] | Top confidence: 0.4727 | Strategy: Normal
+[21:16:39] [MISS] Consecutive misses: 2
+[21:16:39] New prediction → Main: ['Phao', 'Bong'] | Rare: [] | Top confidence: 0.4533 | Strategy: Normal
+[21:17:09] New prediction → Main: ['Phao', 'Kem'] | Rare: [] | Top confidence: 0.4529 | Strategy: Normal
+[21:17:41] New prediction → Main: ['Kem', 'Phao'] | Rare: [] | Top confidence: 0.44 | Strategy: Normal
+[21:18:12] New prediction → Main: ['Dam', 'Bong'] | Rare: [] | Top confidence: 0.597 | Strategy: Normal
+[21:18:46] New prediction → Main: ['Dam', 'Phao'] | Rare: [] | Top confidence: 0.4812 | Strategy: Normal
+[21:19:17] [MISS] Consecutive misses: 1
+[21:19:17] New prediction → Main: ['Phao', 'Dam'] | Rare: [] | Top confidence: 0.4514 | Strategy: Normal
+[21:19:49] New prediction → Main: ['Phao', 'Dam'] | Rare: [] | Top confidence: 0.4956 | Strategy: Normal
+[21:20:21] [MISS] Consecutive misses: 1
+[21:20:21] New prediction → Main: ['Phao', 'Kem'] | Rare: [] | Top confidence: 0.5799 | Strategy: Normal
+[21:20:55] [MISS] Consecutive misses: 2
+[21:20:55] New prediction → Main: ['Dam', 'Phao'] | Rare: [] | Top confidence: 0.4768 | Strategy: Normal
+[21:21:24] [MISS] Consecutive misses: 3
+[21:21:24] New prediction → Main: ['Phao', 'Kem'] | Rare: [] | Top confidence: 0.4832 | Strategy: Normal
+[21:21:56] [MISS] Consecutive misses: 4
+[21:21:56] New prediction → Main: ['Kem', 'Phao'] | Rare: [] | Top confidence: 0.6897 | Strategy: Normal
+[21:22:28] [MISS] Consecutive misses: 5
+[21:22:28] New prediction → Main: ['Kem', 'Bong'] | Rare: [] | Top confidence: 0.4231 | Strategy: Normal
+[21:23:01] New prediction → Main: ['Dam', 'Phao'] | Rare: [] | Top confidence: 0.4212 | Strategy: Normal
+[21:23:30] New prediction → Main: ['Phao', 'Kem'] | Rare: [] | Top confidence: 0.5758 | Strategy: Normal
+[21:24:06] [MISS] Consecutive misses: 1
+[21:24:06] New prediction → Main: ['Dam', 'Phao'] | Rare: [] | Top confidence: 0.4762 | Strategy: Normal
+[21:24:37] New prediction → Main: ['Phao', 'Kem'] | Rare: [] | Top confidence: 0.5119 | Strategy: Normal
+[21:25:11] [MISS] Consecutive misses: 1
+[21:25:11] New prediction → Main: ['Dam', 'Kem'] | Rare: [] | Top confidence: 0.4748 | Strategy: Normal
+[21:25:40] New prediction → Main: ['Phao', 'Kem'] | Rare: [] | Top confidence: 0.44 | Strategy: Normal
+[21:26:12] [MISS] Consecutive misses: 1
+[21:26:12] New prediction → Main: ['Bong', 'Dam'] | Rare: [] | Top confidence: 0.6679 | Strategy: Normal
+[21:26:44] New prediction → Main: ['Phao', 'Bong'] | Rare: [] | Top confidence: 0.4647 | Strategy: Normal
+[21:27:18] [MISS] Consecutive misses: 1
+[21:27:18] New prediction → Main: ['Bong', 'Phao'] | Rare: [] | Top confidence: 0.4541 | Strategy: Normal
+[21:27:49] [MISS] Consecutive misses: 2
+[21:27:49] New prediction → Main: ['Phao', 'Kem'] | Rare: [] | Top confidence: 0.491 | Strategy: Normal
+[21:28:20] [MISS] Consecutive misses: 3
+[21:28:20] New prediction → Main: ['Dam', 'Phao'] | Rare: [] | Top confidence: 0.4861 | Strategy: Normal
+[21:28:51] [MISS] Consecutive misses: 4
+[21:28:51] New prediction → Main: ['Dam', 'Phao'] | Rare: [] | Top confidence: 0.4377 | Strategy: Normal
+[21:29:26] New prediction → Main: ['Phao', 'Dam'] | Rare: [] | Top confidence: 0.4881 | Strategy: Normal
+[21:29:56] New prediction → Main: ['Bong', 'Dam'] | Rare: [] | Top confidence: 0.5186 | Strategy: Normal
+[21:30:29] New prediction → Main: ['Bong', 'Kem'] | Rare: [] | Top confidence: 0.4677 | Strategy: Normal
+[21:31:01] New prediction → Main: ['Dam', 'Bong'] | Rare: [] | Top confidence: 0.4285 | Strategy: Normal
+[21:32:05] ✅ System Ready.
+[21:32:07] New prediction → Main: ['Kem', 'Phao'] | Rare: [] | Top confidence: 0.125 | Strategy: Normal
+[21:33:09] New prediction → Main: ['Kem', 'Phao'] | Rare: [] | Top confidence: 0.3438 | Strategy: Normal
+[21:33:43] New prediction → Main: ['Dam', 'Kem'] | Rare: [] | Top confidence: 0.2188 | Strategy: Normal
+[21:49:23] ✅ System Ready.
+[21:49:44] New prediction → Main: ['Kem', 'Phao'] | Rare: [] | Top confidence: 0.125 | Strategy: Normal
+[21:50:46] New prediction → Main: ['Kem', 'Phao'] | Rare: [] | Top confidence: 0.3438 | Strategy: Normal
+[21:51:15] [MISS] Consecutive misses: 1
+[21:51:15] New prediction → Main: ['Kem', 'Phao'] | Rare: [] | Top confidence: 0.2188 | Strategy: Normal
+[21:51:48] [MISS] Consecutive misses: 2
+[21:51:48] New prediction → Main: ['Kem', 'Bong'] | Rare: [] | Top confidence: 0.1771 | Strategy: Normal
+[21:52:20] New prediction → Main: ['Kem', 'Bong'] | Rare: [] | Top confidence: 0.175 | Strategy: Normal
+[21:52:56] [MISS] Consecutive misses: 1
+[21:52:56] New prediction → Main: ['Kem', 'Phao'] | Rare: [] | Top confidence: 0.23 | Strategy: Normal
+[21:53:25] [MISS] Consecutive misses: 2
+[21:53:25] New prediction → Main: ['Dam', 'Kem'] | Rare: [] | Top confidence: 0.4514 | Strategy: Normal
+[21:53:56] [MISS] Consecutive misses: 3
+[21:53:56] New prediction → Main: ['Dam', 'Kem'] | Rare: [] | Top confidence: 0.5258 | Strategy: Normal
+[21:54:28] [MISS] Consecutive misses: 4
+[21:54:28] New prediction → Main: ['Phao', 'Dam'] | Rare: [] | Top confidence: 0.443 | Strategy: Normal
+[21:55:04] [MISS] Consecutive misses: 5
+[21:55:04] New prediction → Main: ['Phao', 'Bong'] | Rare: [] | Top confidence: 0.4398 | Strategy: Normal
+[21:55:33] New prediction → Main: ['Dam', 'Phao'] | Rare: [] | Top confidence: 0.44 | Strategy: Normal
+[21:56:04] [MISS] Consecutive misses: 1
+[21:56:04] New prediction → Main: ['Phao', 'Dam'] | Rare: [] | Top confidence: 0.4196 | Strategy: Normal
+[21:56:35] New prediction → Main: ['Bong', 'Kem'] | Rare: [] | Top confidence: 0.4487 | Strategy: Normal
+[21:57:04] ✅ System Ready.
+[21:57:12] New prediction → Main: ['Kem', 'Phao'] | Rare: [] | Top confidence: 0.125 | Strategy: Normal
+[21:57:40] New prediction → Main: ['Kem', 'Phao'] | Rare: [] | Top confidence: 0.3438 | Strategy: Normal
+[21:58:12] [MISS] Consecutive misses: 1
+[21:58:12] New prediction → Main: ['Kem', 'Phao'] | Rare: [] | Top confidence: 0.2188 | Strategy: Normal
+[21:58:43] New prediction → Main: ['Kem', 'Dam'] | Rare: [] | Top confidence: 0.1771 | Strategy: Normal
+[21:59:16] New prediction → Main: ['Kem', 'Dam'] | Rare: [] | Top confidence: 0.175 | Strategy: Normal
+[21:59:47] New prediction → Main: ['Kem', 'Bong'] | Rare: [] | Top confidence: 0.3558 | Strategy: Normal
+[22:00:20] [MISS] Consecutive misses: 1
+[22:00:20] New prediction → Main: ['Dam', 'Kem'] | Rare: [] | Top confidence: 0.4167 | Strategy: Normal
+[22:00:52] [MISS] Consecutive misses: 2
+[22:00:52] New prediction → Main: ['Kem', 'Dam'] | Rare: [] | Top confidence: 0.6868 | Strategy: Normal
+[22:01:26] New prediction → Main: ['Dam', 'Kem'] | Rare: [] | Top confidence: 0.465 | Strategy: Normal
+[22:01:54] New prediction → Main: ['Kem', 'Dam'] | Rare: [] | Top confidence: 0.4622 | Strategy: Normal
+[22:02:28] New prediction → Main: ['Kem', 'Dam'] | Rare: [] | Top confidence: 0.46 | Strategy: Normal
+[22:03:00] [MISS] Consecutive misses: 1
+[22:03:00] New prediction → Main: ['Kem', 'Dam'] | Rare: [] | Top confidence: 0.4231 | Strategy: Normal
+[22:03:33] [MISS] Consecutive misses: 2
+[22:03:33] New prediction → Main: ['Kem', 'Dam'] | Rare: [] | Top confidence: 0.4006 | Strategy: Normal
+[22:04:04] [MISS] Consecutive misses: 3
+[22:04:04] New prediction → Main: ['Dam', 'Kem'] | Rare: [] | Top confidence: 0.4554 | Strategy: Normal
+[22:04:37] [MISS] Consecutive misses: 4
+[22:04:37] New prediction → Main: ['Phao', 'Kem'] | Rare: [] | Top confidence: 0.44 | Strategy: Normal
+[22:05:06] New prediction → Main: ['Kem', 'Dam'] | Rare: [] | Top confidence: 0.4533 | Strategy: Normal
+[22:05:42] New prediction → Main: ['Dam', 'Kem'] | Rare: [] | Top confidence: 0.4351 | Strategy: Normal
+[22:06:13] [MISS] Consecutive misses: 1
+[22:06:13] New prediction → Main: ['Phao', 'Kem'] | Rare: [] | Top confidence: 0.4239 | Strategy: Normal
+[22:06:44] New prediction → Main: ['Kem', 'Dam'] | Rare: [] | Top confidence: 0.6779 | Strategy: Normal
+[22:13:03] ✅ System Ready.
+[22:13:09] New prediction → Main: ['Kem', 'Phao'] | Rare: [] | Top confidence: 0.125 | Strategy: Normal
+[22:13:40] New prediction → Main: ['Bong', 'Kem'] | Rare: [] | Top confidence: 0.3438 | Strategy: Normal
+[22:14:11] New prediction → Main: ['Phao', 'Bong'] | Rare: [] | Top confidence: 0.2188 | Strategy: Normal
+[22:14:43] [MISS] Consecutive misses: 1
+[22:14:43] New prediction → Main: ['Bong', 'Phao'] | Rare: [] | Top confidence: 0.2604 | Strategy: Normal
+[22:15:16] New prediction → Main: ['Bong', 'Phao'] | Rare: [] | Top confidence: 0.175 | Strategy: Normal
+[22:15:47] [MISS] Consecutive misses: 1
+[22:15:47] New prediction → Main: ['Dam', 'Phao'] | Rare: [] | Top confidence: 0.2899 | Strategy: Normal
+[22:16:18] [MISS] Consecutive misses: 2
+[22:16:18] New prediction → Main: ['Dam', 'Kem'] | Rare: [] | Top confidence: 0.4583 | Strategy: Normal
+[22:16:52] [MISS] Consecutive misses: 3
+[22:16:52] New prediction → Main: ['Phao', 'Bong'] | Rare: [] | Top confidence: 0.5922 | Strategy: Normal
+[22:17:25] [MISS] Consecutive misses: 4
+[22:17:25] New prediction → Main: ['Bong', 'Phao'] | Rare: [] | Top confidence: 0.44 | Strategy: Normal
+[22:17:54] [MISS] Consecutive misses: 5
+[22:17:54] New prediction → Main: ['Bong', 'Kem'] | Rare: [] | Top confidence: 0.5475 | Strategy: Normal
+[22:18:28] [MISS] Consecutive misses: 6
+[22:18:28] New prediction → Main: ['Dam', 'Phao', 'Kem'] | Rare: [] | Top confidence: 0.44 | Strategy: Normal
+[22:18:59] New prediction → Main: ['Dam', 'Phao', 'Kem'] | Rare: [] | Top confidence: 0.4545 | Strategy: Normal
+[22:19:35] [MISS] Consecutive misses: 1
+[22:19:35] New prediction → Main: ['Bong', 'Kem', 'Phao'] | Rare: [] | Top confidence: 0.49 | Strategy: Normal
+[22:20:03] [MISS] Consecutive misses: 2
+[22:20:03] New prediction → Main: ['Kem', 'Phao', 'Dam'] | Rare: [] | Top confidence: 0.44 | Strategy: Normal
+[22:20:34] New prediction → Main: ['Dam', 'Phao', 'Kem'] | Rare: [] | Top confidence: 0.4571 | Strategy: Normal
+[22:21:09] [MISS] Consecutive misses: 1
+[22:21:09] New prediction → Main: ['Kem', 'Bong', 'Dam'] | Rare: [] | Top confidence: 0.44 | Strategy: Normal
+[22:21:41] New prediction → Main: ['Dam', 'Kem', 'Phao'] | Rare: [] | Top confidence: 0.44 | Strategy: Normal
+[22:22:13] [MISS] Consecutive misses: 1
+[22:22:13] New prediction → Main: ['Phao', 'Bong', 'Dam'] | Rare: [] | Top confidence: 0.4753 | Strategy: Normal
+[22:22:44] New prediction → Main: ['Dam', 'Phao', 'Kem'] | Rare: [] | Top confidence: 0.4745 | Strategy: Normal
+[22:23:15] New prediction → Main: ['Dam', 'Phao', 'Bong'] | Rare: [] | Top confidence: 0.4926 | Strategy: Normal
+[22:23:48] New prediction → Main: ['Bong', 'Kem', 'Dam'] | Rare: [] | Top confidence: 0.4328 | Strategy: Normal
+[22:24:20] [MISS] Consecutive misses: 1
+[22:24:20] New prediction → Main: ['Bong', 'Dam', 'Phao'] | Rare: [] | Top confidence: 0.4396 | Strategy: Normal
+[22:24:52] New prediction → Main: ['Bong', 'Phao', 'Dam'] | Rare: [] | Top confidence: 0.4545 | Strategy: Normal
+[22:25:24] [MISS] Consecutive misses: 1
+[22:25:24] New prediction → Main: ['Dam', 'Bong', 'Kem'] | Rare: [] | Top confidence: 0.6606 | Strategy: Normal
+[22:25:58] New prediction → Main: ['Phao', 'Dam', 'Bong'] | Rare: [] | Top confidence: 0.3224 | Strategy: Normal
+[22:26:28] New prediction → Main: ['Dam', 'Kem', 'Bong'] | Rare: [] | Top confidence: 0.5 | Strategy: Normal
+[22:27:00] [MISS] Consecutive misses: 1
+[22:27:00] New prediction → Main: ['Dam', 'Bong', 'Kem'] | Rare: [] | Top confidence: 0.4647 | Strategy: Normal
+[22:27:32] [MISS] Consecutive misses: 2
+[22:27:32] New prediction → Main: ['Dam', 'Phao', 'Kem'] | Rare: [] | Top confidence: 0.4222 | Strategy: Normal
+[22:28:04] New prediction → Main: ['Bong', 'Kem', 'Dam'] | Rare: [] | Top confidence: 0.4689 | Strategy: Normal
+[22:28:37] [MISS] Consecutive misses: 1
+[22:28:37] New prediction → Main: ['Bong', 'Kem', 'Dam'] | Rare: [] | Top confidence: 0.44 | Strategy: Normal
+[22:29:07] [MISS] Consecutive misses: 2
+[22:29:07] New prediction → Main: ['Kem', 'Phao', 'Bong'] | Rare: [] | Top confidence: 0.4842 | Strategy: Normal
+[22:29:39] [MISS] Consecutive misses: 3
+[22:29:39] New prediction → Main: ['Dam', 'Bong', 'Kem'] | Rare: [] | Top confidence: 0.5103 | Strategy: Normal
+[22:30:14] [MISS] Consecutive misses: 4
+[22:30:14] New prediction → Main: ['Dam', 'Bong', 'Kem'] | Rare: [] | Top confidence: 0.45 | Strategy: Normal
+[22:30:44] New prediction → Main: ['Bong', 'Dam', 'Kem'] | Rare: [] | Top confidence: 0.4583 | Strategy: Normal
+[22:31:16] New prediction → Main: ['Phao', 'Bong', 'Dam'] | Rare: [] | Top confidence: 0.489 | Strategy: Normal
+[22:31:47] New prediction → Main: ['Kem', 'Dam', 'Bong'] | Rare: [] | Top confidence: 0.44 | Strategy: Normal
+[22:32:22] [MISS] Consecutive misses: 1
+[22:32:22] New prediction → Main: ['Kem', 'Dam', 'Bong'] | Rare: [] | Top confidence: 0.6355 | Strategy: Normal
+[22:32:51] New prediction → Main: ['Phao', 'Dam', 'Bong'] | Rare: [] | Top confidence: 0.4992 | Strategy: Normal
+[22:33:26] [MISS] Consecutive misses: 1
+[22:33:26] New prediction → Main: ['Bong', 'Dam', 'Kem'] | Rare: [] | Top confidence: 0.4766 | Strategy: Normal
+[22:33:55] New prediction → Main: ['Kem', 'Dam', 'Bong'] | Rare: [] | Top confidence: 0.4797 | Strategy: Normal
+[22:34:30] [MISS] Consecutive misses: 1
+[22:34:30] New prediction → Main: ['Bong', 'Dam', 'Phao'] | Rare: [] | Top confidence: 0.4911 | Strategy: Normal
+[22:34:59] New prediction → Main: ['Phao', 'Bong', 'Dam'] | Rare: [] | Top confidence: 0.4147 | Strategy: Normal
+[22:35:32] [MISS] Consecutive misses: 1
+[22:35:32] New prediction → Main: ['Dam', 'Kem', 'Phao'] | Rare: [] | Top confidence: 0.5238 | Strategy: Normal
+[22:36:04] New prediction → Main: ['Bong', 'Kem', 'Phao'] | Rare: [] | Top confidence: 0.4554 | Strategy: Normal
+[22:36:38] New prediction → Main: ['Kem', 'Dam', 'Phao'] | Rare: [] | Top confidence: 0.5328 | Strategy: Normal
+[22:37:07] New prediction → Main: ['Kem', 'Dam', 'Phao'] | Rare: [] | Top confidence: 0.4222 | Strategy: Normal
+[22:37:39] New prediction → Main: ['Bong', 'Phao', 'Dam'] | Rare: [] | Top confidence: 0.4718 | Strategy: Normal
+[22:38:13] [MISS] Consecutive misses: 1
+[22:38:13] New prediction → Main: ['Bong', 'Dam', 'Kem'] | Rare: [] | Top confidence: 0.4583 | Strategy: Normal
+[22:38:46] New prediction → Main: ['Kem', 'Dam', 'Bong'] | Rare: [] | Top confidence: 0.6037 | Strategy: Normal
+[22:39:15] New prediction → Main: ['Phao', 'Dam'] | Rare: ['Anh'] | Top confidence: 0.4302 | Strategy: Normal
+[22:39:48] New prediction → Main: ['Phao', 'Kem'] | Rare: ['Gau'] | Top confidence: 0.4346 | Strategy: Normal
+[22:40:20] New prediction → Main: ['Dam', 'Kem'] | Rare: ['Anh'] | Top confidence: 0.4263 | Strategy: Normal
+[22:40:55] [MISS] Consecutive misses: 1
+[22:40:55] New prediction → Main: ['Phao', 'Bong'] | Rare: ['Gau'] | Top confidence: 0.4164 | Strategy: Normal
+[22:41:23] New prediction → Main: ['Phao', 'Dam'] | Rare: ['Anh'] | Top confidence: 0.4481 | Strategy: Normal
+[22:41:55] [MISS] Consecutive misses: 1
+[22:41:55] New prediction → Main: ['Bong', 'Kem'] | Rare: ['Anh'] | Top confidence: 0.5186 | Strategy: Normal
+[22:42:28] New prediction → Main: ['Bong', 'Phao'] | Rare: ['Anh'] | Top confidence: 0.4545 | Strategy: Normal
+[22:43:01] [MISS] Consecutive misses: 1
+[22:43:01] New prediction → Main: ['Bong', 'Kem'] | Rare: ['Gau'] | Top confidence: 0.4216 | Strategy: Normal
+[22:43:32] [MISS] Consecutive misses: 2
+[22:43:32] New prediction → Main: ['Bong', 'Kem'] | Rare: ['Anh'] | Top confidence: 0.3717 | Strategy: Normal
+[22:44:03] [MISS] Consecutive misses: 3
+[22:44:03] New prediction → Main: ['Dam', 'Bong'] | Rare: ['Gau'] | Top confidence: 0.4385 | Strategy: Normal
+[22:44:36] New prediction → Main: ['Kem', 'Dam'] | Rare: ['Niem'] | Top confidence: 0.4583 | Strategy: Normal
+[22:45:09] New prediction → Main: ['Dam', 'Kem'] | Rare: ['Anh'] | Top confidence: 0.44 | Strategy: Normal
+[22:45:39] [MISS] Consecutive misses: 1
+[22:45:39] New prediction → Main: ['Dam', 'Kem'] | Rare: ['Gau'] | Top confidence: 0.4254 | Strategy: Normal
+[22:46:11] [MISS] Consecutive misses: 2
+[22:46:11] New prediction → Main: ['Dam', 'Kem'] | Rare: ['Anh'] | Top confidence: 0.4613 | Strategy: Normal
+[22:46:43] New prediction → Main: ['Kem', 'Phao'] | Rare: ['Anh'] | Top confidence: 0.4551 | Strategy: Normal
+[22:47:17] [MISS] Consecutive misses: 1
+[22:47:17] New prediction → Main: ['Phao', 'Dam'] | Rare: ['Tien'] | Top confidence: 0.4525 | Strategy: Normal
+[22:47:47] New prediction → Main: ['Phao', 'Kem'] | Rare: ['Anh'] | Top confidence: 0.486 | Strategy: Normal
+[22:48:20] [MISS] Consecutive misses: 1
+[22:48:20] New prediction → Main: ['Kem', 'Dam'] | Rare: ['Niem'] | Top confidence: 0.44 | Strategy: Normal
+[22:48:52] New prediction → Main: ['Dam', 'Kem'] | Rare: ['Gau'] | Top confidence: 0.6317 | Strategy: Normal
+[22:49:26] [MISS] Consecutive misses: 1
+[22:49:26] New prediction → Main: ['Bong', 'Kem'] | Rare: ['Gau'] | Top confidence: 0.4565 | Strategy: Normal
+[22:49:55] New prediction → Main: ['Phao', 'Kem'] | Rare: ['Gau'] | Top confidence: 0.4452 | Strategy: Normal
+[22:50:27] New prediction → Main: ['Dam', 'Phao'] | Rare: ['Anh'] | Top confidence: 0.4732 | Strategy: Normal
+[22:50:59] [MISS] Consecutive misses: 1
+[22:50:59] New prediction → Main: ['Bong', 'Phao'] | Rare: ['Anh'] | Top confidence: 0.473 | Strategy: Normal
+[22:51:34] [MISS] Consecutive misses: 2
+[22:51:34] New prediction → Main: ['Bong', 'Dam'] | Rare: ['Gau'] | Top confidence: 0.428 | Strategy: Normal
+[22:52:04] [MISS] Consecutive misses: 3
+[22:52:04] New prediction → Main: ['Phao', 'Dam'] | Rare: ['Gau'] | Top confidence: 0.4309 | Strategy: Normal
+[22:52:35] New prediction → Main: ['Phao', 'Dam'] | Rare: ['Anh'] | Top confidence: 0.4536 | Strategy: Normal
+[22:53:08] New prediction → Main: ['Bong', 'Kem'] | Rare: ['Tien'] | Top confidence: 0.5201 | Strategy: Normal
+[22:53:41] [MISS] Consecutive misses: 1
+[22:53:41] New prediction → Main: ['Bong', 'Kem'] | Rare: ['Anh'] | Top confidence: 0.4795 | Strategy: Normal
+[22:54:10] New prediction → Main: ['Bong', 'Dam'] | Rare: ['Anh'] | Top confidence: 0.462 | Strategy: Normal
+[22:54:43] New prediction → Main: ['Bong', 'Phao'] | Rare: ['Gau'] | Top confidence: 0.5087 | Strategy: Normal
+[22:55:14] New prediction → Main: ['Bong', 'Dam'] | Rare: ['Anh'] | Top confidence: 0.4715 | Strategy: Normal
+[22:55:50] New prediction → Main: ['Dam', 'Phao'] | Rare: ['Gau'] | Top confidence: 0.6436 | Strategy: Normal
+[22:56:19] New prediction → Main: ['Bong', 'Dam'] | Rare: ['Gau'] | Top confidence: 0.443 | Strategy: Normal
+[22:56:52] [MISS] Consecutive misses: 1
+[22:56:52] New prediction → Main: ['Dam', 'Kem'] | Rare: ['Gau'] | Top confidence: 0.4609 | Strategy: Normal
+[22:57:24] New prediction → Main: ['Phao', 'Dam'] | Rare: ['Tien'] | Top confidence: 0.4357 | Strategy: Normal
+[22:57:59] [MISS] Consecutive misses: 1
+[22:57:59] New prediction → Main: ['Dam', 'Phao'] | Rare: ['Gau'] | Top confidence: 0.4601 | Strategy: Normal
+[22:58:29] [MISS] Consecutive misses: 2
+[22:58:29] New prediction → Main: ['Kem', 'Phao'] | Rare: ['Gau'] | Top confidence: 0.4729 | Strategy: Normal
+[22:58:59] New prediction → Main: ['Bong', 'Phao'] | Rare: ['Anh'] | Top confidence: 0.5258 | Strategy: Normal
+[22:59:31] New prediction → Main: ['Bong', 'Kem'] | Rare: ['Gau'] | Top confidence: 0.5038 | Strategy: Normal
+[23:00:05] New prediction → Main: ['Dam', 'Kem'] | Rare: ['Tien'] | Top confidence: 0.3447 | Strategy: Normal
+[23:00:37] [MISS] Consecutive misses: 1
+[23:00:37] New prediction → Main: ['Dam', 'Bong'] | Rare: ['Anh'] | Top confidence: 0.6314 | Strategy: Normal
+[23:01:09] [MISS] Consecutive misses: 2
+[23:01:09] New prediction → Main: ['Kem', 'Dam'] | Rare: ['Anh'] | Top confidence: 0.4502 | Strategy: Normal
+[23:01:39] New prediction → Main: ['Dam', 'Kem'] | Rare: ['Anh'] | Top confidence: 0.5353 | Strategy: Normal
+[23:02:13] [MISS] Consecutive misses: 1
+[23:02:13] New prediction → Main: ['Kem', 'Phao'] | Rare: ['Gau'] | Top confidence: 0.4422 | Strategy: Normal
+[23:02:43] New prediction → Main: ['Dam', 'Kem'] | Rare: ['Gau'] | Top confidence: 0.4996 | Strategy: Normal
+[23:03:15] New prediction → Main: ['Bong', 'Phao'] | Rare: ['Anh'] | Top confidence: 0.5536 | Strategy: Normal
+[23:03:48] [MISS] Consecutive misses: 1
+[23:03:48] New prediction → Main: ['Bong', 'Phao'] | Rare: ['Anh'] | Top confidence: 0.4732 | Strategy: Normal
+[23:04:22] New prediction → Main: ['Dam', 'Phao'] | Rare: ['Tien'] | Top confidence: 0.6138 | Strategy: Normal
+[23:04:52] [MISS] Consecutive misses: 1
+[23:04:52] New prediction → Main: ['Bong', 'Phao'] | Rare: ['Anh'] | Top confidence: 0.4535 | Strategy: Normal
+[23:05:24] [MISS] Consecutive misses: 2
+[23:05:24] New prediction → Main: ['Bong', 'Phao'] | Rare: ['Tien'] | Top confidence: 0.6217 | Strategy: Normal
+[23:05:56] New prediction → Main: ['Dam', 'Phao'] | Rare: ['Anh'] | Top confidence: 0.4527 | Strategy: Normal
+[23:06:31] New prediction → Main: ['Phao', 'Kem'] | Rare: ['Anh'] | Top confidence: 0.4687 | Strategy: Normal
+[23:07:00] [MISS] Consecutive misses: 1
+[23:07:00] New prediction → Main: ['Phao', 'Kem'] | Rare: ['Anh'] | Top confidence: 0.4636 | Strategy: Normal
+[23:07:31] [MISS] Consecutive misses: 2
+[23:07:31] New prediction → Main: ['Phao', 'Kem'] | Rare: ['Anh'] | Top confidence: 0.4555 | Strategy: Normal
+[23:08:03] New prediction → Main: ['Kem', 'Phao'] | Rare: ['Gau'] | Top confidence: 0.4421 | Strategy: Normal
+[23:08:39] [MISS] Consecutive misses: 1
+[23:08:39] New prediction → Main: ['Bong', 'Phao'] | Rare: ['Anh'] | Top confidence: 0.559 | Strategy: Normal
+[23:09:09] New prediction → Main: ['Bong', 'Phao'] | Rare: ['Anh'] | Top confidence: 0.3704 | Strategy: Normal
+[23:09:41] [MISS] Consecutive misses: 1
+[23:09:41] New prediction → Main: ['Dam', 'Bong'] | Rare: ['Gau'] | Top confidence: 0.5809 | Strategy: Normal
+[23:10:12] [MISS] Consecutive misses: 2
+[23:10:12] New prediction → Main: ['Dam', 'Bong'] | Rare: ['Tien'] | Top confidence: 0.4575 | Strategy: Normal
+[23:10:45] New prediction → Main: ['Phao', 'Dam'] | Rare: ['Gau'] | Top confidence: 0.4641 | Strategy: Normal
+[23:11:17] New prediction → Main: ['Phao', 'Dam'] | Rare: ['Niem'] | Top confidence: 0.4087 | Strategy: Normal
+[23:11:48] New prediction → Main: ['Kem', 'Dam'] | Rare: ['Anh'] | Top confidence: 0.4334 | Strategy: Normal
+[23:12:20] New prediction → Main: ['Kem', 'Dam'] | Rare: ['Gau'] | Top confidence: 0.4674 | Strategy: Normal
+[23:12:54] New prediction → Main: ['Dam', 'Kem'] | Rare: ['Anh'] | Top confidence: 0.5216 | Strategy: Normal
+[23:13:23] New prediction → Main: ['Kem', 'Phao'] | Rare: ['Anh'] | Top confidence: 0.3806 | Strategy: Normal
+[23:13:55] [MISS] Consecutive misses: 1
+[23:13:55] New prediction → Main: ['Bong', 'Kem'] | Rare: ['Gau'] | Top confidence: 0.4793 | Strategy: Normal
+[23:14:26] New prediction → Main: ['Bong', 'Dam'] | Rare: ['Anh'] | Top confidence: 0.417 | Strategy: Normal
+[23:15:01] [MISS] Consecutive misses: 1
+[23:15:01] New prediction → Main: ['Kem', 'Dam'] | Rare: ['Anh'] | Top confidence: 0.3789 | Strategy: Normal
+[23:15:31] [MISS] Consecutive misses: 2
+[23:15:31] New prediction → Main: ['Kem', 'Phao'] | Rare: ['Anh'] | Top confidence: 0.456 | Strategy: Normal
+[23:16:04] New prediction → Main: ['Phao', 'Dam'] | Rare: ['Gau'] | Top confidence: 0.4644 | Strategy: Normal
+[23:16:36] [MISS] Consecutive misses: 1
+[23:16:36] New prediction → Main: ['Bong', 'Phao'] | Rare: ['Gau'] | Top confidence: 0.5474 | Strategy: Normal
+[23:17:09] [MISS] Consecutive misses: 2
+[23:17:09] New prediction → Main: ['Phao', 'Dam'] | Rare: ['Gau'] | Top confidence: 0.4484 | Strategy: Normal
+[23:17:41] New prediction → Main: ['Bong', 'Dam'] | Rare: ['Gau'] | Top confidence: 0.4671 | Strategy: Normal
+[23:18:13] [MISS] Consecutive misses: 1
+[23:18:13] New prediction → Main: ['Phao', 'Kem'] | Rare: ['Anh'] | Top confidence: 0.2764 | Strategy: Normal
+[23:18:43] [MISS] Consecutive misses: 2
+[23:18:43] New prediction → Main: ['Phao', 'Dam'] | Rare: ['Gau'] | Top confidence: 0.4958 | Strategy: Normal
+[23:19:18] [MISS] Consecutive misses: 3
+[23:19:18] New prediction → Main: ['Bong', 'Phao'] | Rare: ['Anh'] | Top confidence: 0.4394 | Strategy: Normal
+[23:19:48] New prediction → Main: ['Phao', 'Kem'] | Rare: ['Gau'] | Top confidence: 0.5367 | Strategy: Normal
+[23:20:21] [MISS] Consecutive misses: 1
+[23:20:21] New prediction → Main: ['Kem', 'Dam'] | Rare: ['Gau'] | Top confidence: 0.366 | Strategy: Normal
+[23:20:51] [MISS] Consecutive misses: 2
+[23:20:51] New prediction → Main: ['Kem', 'Phao'] | Rare: ['Anh'] | Top confidence: 0.4158 | Strategy: Normal
+[23:21:27] [MISS] Consecutive misses: 3
+[23:21:27] New prediction → Main: ['Phao', 'Bong'] | Rare: ['Gau'] | Top confidence: 0.3047 | Strategy: Normal
+[23:21:55] [MISS] Consecutive misses: 4
+[23:21:55] New prediction → Main: ['Kem', 'Dam'] | Rare: ['Gau'] | Top confidence: 0.5454 | Strategy: Normal
+[23:22:28] [MISS] Consecutive misses: 5
+[23:22:28] New prediction → Main: ['Dam', 'Bong'] | Rare: ['Anh'] | Top confidence: 0.4336 | Strategy: Normal
+[23:23:00] [MISS] Consecutive misses: 6
+[23:23:00] New prediction → Main: ['Bong', 'Dam'] | Rare: ['Niem'] | Top confidence: 0.2586 | Strategy: Normal
+[23:23:35] New prediction → Main: ['Bong', 'Dam'] | Rare: ['Gau'] | Top confidence: 0.4435 | Strategy: Normal
+[23:24:02] [MISS] Consecutive misses: 1
+[23:24:02] New prediction → Main: ['Phao', 'Dam'] | Rare: ['Tien'] | Top confidence: 0.4477 | Strategy: Normal
+[23:24:35] New prediction → Main: ['Dam', 'Kem'] | Rare: ['Gau'] | Top confidence: 0.4596 | Strategy: Normal
+[23:25:08] [MISS] Consecutive misses: 1
+[23:25:08] New prediction → Main: ['Bong', 'Dam'] | Rare: ['Gau'] | Top confidence: 0.4737 | Strategy: Normal
+[23:25:43] [MISS] Consecutive misses: 2
+[23:25:43] New prediction → Main: ['Bong', 'Phao'] | Rare: ['Tien'] | Top confidence: 0.4637 | Strategy: Normal
+[23:26:11] [MISS] Consecutive misses: 3
+[23:26:11] New prediction → Main: ['Kem', 'Bong'] | Rare: ['Anh'] | Top confidence: 0.4759 | Strategy: Normal
+[23:26:44] New prediction → Main: ['Bong', 'Phao'] | Rare: ['Niem'] | Top confidence: 0.4182 | Strategy: Normal
+[23:27:17] [MISS] Consecutive misses: 1
+[23:27:17] New prediction → Main: ['Bong', 'Dam'] | Rare: ['Niem'] | Top confidence: 0.4014 | Strategy: Normal
+[23:27:49] New prediction → Main: ['Phao', 'Dam'] | Rare: ['Gau'] | Top confidence: 0.4939 | Strategy: Normal
+[23:28:19] New prediction → Main: ['Bong', 'Dam'] | Rare: ['Anh'] | Top confidence: 0.4839 | Strategy: Normal
+[23:28:52] New prediction → Main: ['Kem', 'Bong'] | Rare: ['Gau'] | Top confidence: 0.5973 | Strategy: Normal
+[23:29:24] [MISS] Consecutive misses: 1
+[23:29:24] New prediction → Main: ['Kem', 'Bong'] | Rare: ['Anh'] | Top confidence: 0.478 | Strategy: Normal
+[23:29:58] New prediction → Main: ['Bong', 'Kem'] | Rare: ['Gau'] | Top confidence: 0.4675 | Strategy: Normal
+[23:30:28] [MISS] Consecutive misses: 1
+[23:30:28] New prediction → Main: ['Bong', 'Kem'] | Rare: ['Tien'] | Top confidence: 0.4842 | Strategy: Normal
+[23:30:59] New prediction → Main: ['Phao', 'Bong'] | Rare: ['Anh'] | Top confidence: 0.4951 | Strategy: Normal
+[23:31:31] New prediction → Main: ['Kem', 'Phao'] | Rare: ['Gau'] | Top confidence: 0.5486 | Strategy: Normal
+[23:32:07] [MISS] Consecutive misses: 1
+[23:32:07] New prediction → Main: ['Phao', 'Bong'] | Rare: ['Gau'] | Top confidence: 0.4988 | Strategy: Normal
+[23:32:34] New prediction → Main: ['Phao', 'Dam'] | Rare: ['Gau'] | Top confidence: 0.4163 | Strategy: Normal
+[23:33:06] New prediction → Main: ['Dam', 'Kem'] | Rare: ['Gau'] | Top confidence: 0.4628 | Strategy: Normal
+[23:33:39] [MISS] Consecutive misses: 1
+[23:33:39] New prediction → Main: ['Bong', 'Phao'] | Rare: ['Gau'] | Top confidence: 0.5143 | Strategy: Normal
+[23:34:13] [MISS] Consecutive misses: 2
+[23:34:13] New prediction → Main: ['Bong', 'Dam'] | Rare: ['Gau'] | Top confidence: 0.4681 | Strategy: Normal
+[23:34:45] [MISS] Consecutive misses: 3
+[23:34:45] New prediction → Main: ['Dam', 'Kem'] | Rare: ['Anh'] | Top confidence: 0.4512 | Strategy: Normal
+[23:35:15] New prediction → Main: ['Dam', 'Phao'] | Rare: ['Tien'] | Top confidence: 0.5162 | Strategy: Normal
+[23:35:48] New prediction → Main: ['Dam', 'Bong'] | Rare: ['Tien'] | Top confidence: 0.4588 | Strategy: Normal
+[23:36:22] [MISS] Consecutive misses: 1
+[23:36:22] New prediction → Main: ['Phao', 'Bong'] | Rare: ['Anh'] | Top confidence: 0.4911 | Strategy: Normal
+[23:36:52] [MISS] Consecutive misses: 2
+[23:36:52] New prediction → Main: ['Dam', 'Phao'] | Rare: ['Niem'] | Top confidence: 0.4425 | Strategy: Normal
+[23:37:24] [MISS] Consecutive misses: 3
+[23:37:24] New prediction → Main: ['Dam', 'Phao'] | Rare: ['Gau'] | Top confidence: 0.4559 | Strategy: Normal
+[23:37:54] [MISS] Consecutive misses: 4
+[23:37:54] New prediction → Main: ['Phao', 'Bong'] | Rare: ['Niem'] | Top confidence: 0.3988 | Strategy: Normal
+[23:38:31] [MISS] Consecutive misses: 5
+[23:38:31] New prediction → Main: ['Bong', 'Dam'] | Rare: ['Gau'] | Top confidence: 0.4518 | Strategy: Normal
+[23:39:01] New prediction → Main: ['Phao', 'Kem'] | Rare: ['Anh'] | Top confidence: 0.4542 | Strategy: Normal
+[23:39:31] New prediction → Main: ['Bong', 'Phao'] | Rare: ['Tien'] | Top confidence: 0.4408 | Strategy: Normal
+[23:40:03] [MISS] Consecutive misses: 1
+[23:40:03] New prediction → Main: ['Bong', 'Phao'] | Rare: ['Anh'] | Top confidence: 0.4544 | Strategy: Normal
+[23:40:39] [MISS] Consecutive misses: 2
+[23:40:39] New prediction → Main: ['Dam', 'Phao'] | Rare: ['Gau'] | Top confidence: 0.4036 | Strategy: Normal
+[23:41:07] [MISS] Consecutive misses: 3
+[23:41:07] New prediction → Main: ['Phao', 'Dam'] | Rare: ['Tien'] | Top confidence: 0.5228 | Strategy: Normal
+[23:41:39] New prediction → Main: ['Phao', 'Bong'] | Rare: ['Gau'] | Top confidence: 0.4798 | Strategy: Normal
+[23:42:11] [MISS] Consecutive misses: 1
+[23:42:11] New prediction → Main: ['Kem', 'Bong'] | Rare: ['Gau'] | Top confidence: 0.4693 | Strategy: Normal
+[23:42:45] New prediction → Main: ['Kem', 'Bong'] | Rare: ['Gau'] | Top confidence: 0.3723 | Strategy: Normal
+[23:43:15] [MISS] Consecutive misses: 1
+[23:43:15] New prediction → Main: ['Phao', 'Kem'] | Rare: ['Tien'] | Top confidence: 0.4409 | Strategy: Normal
+[23:43:48] [MISS] Consecutive misses: 2
+[23:43:48] New prediction → Main: ['Phao', 'Bong'] | Rare: ['Anh'] | Top confidence: 0.4694 | Strategy: Normal
+[23:44:20] [MISS] Consecutive misses: 3
+[23:44:20] New prediction → Main: ['Bong', 'Phao'] | Rare: ['Anh'] | Top confidence: 0.4789 | Strategy: Normal
+[23:44:53] [MISS] Consecutive misses: 4
+[23:44:53] New prediction → Main: ['Kem', 'Phao'] | Rare: ['Anh'] | Top confidence: 0.4778 | Strategy: Normal
+[23:45:23] New prediction → Main: ['Bong', 'Phao'] | Rare: ['Gau'] | Top confidence: 0.4475 | Strategy: Normal
+[23:45:56] [MISS] Consecutive misses: 1
+[23:45:56] New prediction → Main: ['Dam', 'Phao'] | Rare: ['Gau'] | Top confidence: 0.5092 | Strategy: Normal
+[23:46:28] New prediction → Main: ['Dam', 'Bong'] | Rare: ['Gau'] | Top confidence: 0.3998 | Strategy: Normal
+[23:47:03] [MISS] Consecutive misses: 1
+[23:47:03] New prediction → Main: ['Dam', 'Bong'] | Rare: ['Gau'] | Top confidence: 0.4582 | Strategy: Normal
+[23:47:33] [MISS] Consecutive misses: 2
+[23:47:33] New prediction → Main: ['Bong', 'Dam'] | Rare: ['Gau'] | Top confidence: 0.4392 | Strategy: Normal
+[23:48:03] [MISS] Consecutive misses: 3
+[23:48:03] New prediction → Main: ['Phao', 'Dam'] | Rare: ['Anh'] | Top confidence: 0.3645 | Strategy: Normal
+[23:48:36] New prediction → Main: ['Kem', 'Dam'] | Rare: ['Gau'] | Top confidence: 0.3431 | Strategy: Normal
+[23:49:10] New prediction → Main: ['Dam', 'Bong'] | Rare: ['Gau'] | Top confidence: 0.5022 | Strategy: Normal
+[23:49:41] New prediction → Main: ['Bong', 'Phao'] | Rare: ['Anh'] | Top confidence: 0.5155 | Strategy: Normal
+[23:50:10] [MISS] Consecutive misses: 1
+[23:50:10] New prediction → Main: ['Bong', 'Dam'] | Rare: ['Gau'] | Top confidence: 0.32 | Strategy: Normal
+[23:50:44] New prediction → Main: ['Bong', 'Kem'] | Rare: ['Tien'] | Top confidence: 0.4297 | Strategy: Normal
+[23:51:18] [MISS] Consecutive misses: 1
+[23:51:18] New prediction → Main: ['Dam', 'Phao'] | Rare: ['Tien'] | Top confidence: 0.495 | Strategy: Normal
+[23:51:47] [MISS] Consecutive misses: 2
+[23:51:47] New prediction → Main: ['Phao', 'Dam'] | Rare: ['Gau'] | Top confidence: 0.4335 | Strategy: Normal
+[23:52:18] [MISS] Consecutive misses: 3
+[23:52:18] New prediction → Main: ['Phao', 'Bong'] | Rare: ['Anh'] | Top confidence: 0.3764 | Strategy: Normal
+[23:52:52] [MISS] Consecutive misses: 4
+[23:52:52] New prediction → Main: ['Phao', 'Dam'] | Rare: ['Gau'] | Top confidence: 0.4595 | Strategy: Normal
+[23:53:25] [MISS] Consecutive misses: 5
+[23:53:25] New prediction → Main: ['Phao', 'Kem'] | Rare: ['Gau'] | Top confidence: 0.5317 | Strategy: Normal
+[23:53:54] [MISS] Consecutive misses: 6
+[23:53:54] New prediction → Main: ['Phao', 'Kem'] | Rare: ['Tien'] | Top confidence: 0.448 | Strategy: Normal
+[23:54:28] [MISS] Consecutive misses: 7
+[23:54:28] New prediction → Main: ['Bong', 'Kem'] | Rare: ['Niem'] | Top confidence: 0.3472 | Strategy: Normal
+[23:55:00] [MISS] Consecutive misses: 8
+[23:55:00] New prediction → Main: ['Phao', 'Bong'] | Rare: ['Anh'] | Top confidence: 0.46 | Strategy: Normal
+[23:55:34] [MISS] Consecutive misses: 9
+[23:55:34] New prediction → Main: ['Bong', 'Dam'] | Rare: ['Niem'] | Top confidence: 0.4473 | Strategy: Normal
+[23:56:03] New prediction → Main: ['Phao', 'Kem'] | Rare: ['Anh'] | Top confidence: 0.5255 | Strategy: Normal
+[23:56:35] [MISS] Consecutive misses: 1
+[23:56:35] New prediction → Main: ['Bong', 'Kem'] | Rare: ['Gau'] | Top confidence: 0.4552 | Strategy: Normal
+[23:57:09] New prediction → Main: ['Dam', 'Kem'] | Rare: ['Gau'] | Top confidence: 0.474 | Strategy: Normal
+[23:57:42] [MISS] Consecutive misses: 1
+[23:57:42] New prediction → Main: ['Phao', 'Kem'] | Rare: ['Anh'] | Top confidence: 0.5007 | Strategy: Normal
+[23:58:11] [MISS] Consecutive misses: 2
+[23:58:11] New prediction → Main: ['Phao', 'Dam'] | Rare: ['Tien'] | Top confidence: 0.4652 | Strategy: Normal
+[23:58:43] New prediction → Main: ['Kem', 'Phao'] | Rare: ['Anh'] | Top confidence: 0.4632 | Strategy: Normal
+[23:59:14] New prediction → Main: ['Bong', 'Dam'] | Rare: ['Anh'] | Top confidence: 0.4786 | Strategy: Normal
+[23:59:50] [MISS] Consecutive misses: 1
+[23:59:50] New prediction → Main: ['Phao', 'Kem'] | Rare: ['Gau'] | Top confidence: 0.4566 | Strategy: Normal
