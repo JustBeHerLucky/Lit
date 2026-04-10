@@ -41,9 +41,14 @@ def reset_drift_detectors():
     simple_ddm.reset()
 
 def detect_drift(predicted_correct, consecutive_losses):
+    signal = int(predicted_correct)
+
+    adwin_drift.update(signal)
+    ph_drift.update(signal)
+
     return (
-        adwin_drift.update(int(predicted_correct)) or
-        (ph_drift.update(int(predicted_correct)) is not None) or
-        simple_ddm.update(int(predicted_correct)) or
+        adwin_drift.drift_detected or
+        ph_drift.drift_detected or
+        simple_ddm.update(signal) or
         (consecutive_losses >= 3)
     )
